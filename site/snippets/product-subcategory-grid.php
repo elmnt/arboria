@@ -35,18 +35,15 @@ The placement/style of the list item...
 ...removes the white space issue,
 allowing more controlled rendering of the whole list
 */
-?>
-<?php
+
 /*
 foreach( $page->children()->visible() as $product) {
   $img = $product->subcatimage();
   echo '<p>'.$img->resize(600)->url().'</p>';
   $img->url();
 }
-*/
-/*
 foreach( $page->children()->visible() as $product) {
-$fp = $page->url();
+$fp = $product->url();
 $img = $product->subcatimage();
   echo '<p>'.$fp.$img->resize(600)->url().'</p>'; // example
 }
@@ -56,7 +53,7 @@ $img = $product->subcatimage();
 <ul class="product-grid__list cf" id="prod_sort_list">
   <?php
   foreach($page->children()->visible() as $product):
-  $fp = $page->url(); // page url
+  $fp = $product->url(); // (product) page url
   $img = $product->subcatimage(); // Get the custom field image
   ?><li class="product-grid__item" data-title="<?php echo $product->title()->html() ?>" data-date="<?php echo $product->date('Y-m-d') ?>" data-price="<?php echo $product->price()->html() ?>">
     <?php if($image = $product->images()->sortBy('sort', 'asc')->first()): ?>
