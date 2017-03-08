@@ -44,7 +44,7 @@ testing:<br>
 <?php
 foreach( $page->children()->visible() as $product) {
 //$img = $product->subcatimage();
-echo '<img src="'.$product->subcatimage()->url().'" alt="Custom Image">';
+echo '<img src="'.$product->subcatimage()->toFile()->url().'" alt="Custom Image">';
 }
 ?>
 
