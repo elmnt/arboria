@@ -42,8 +42,9 @@ allowing more controlled rendering of the whole list
 <p style="margin-bottom:0;color:pink;">
 testing:<br>
 <?php
+$tu = $page->url();
 foreach( $page->children()->visible() as $product) {
-  echo '<img src="'.$product->subcatimage()->toFile()->url().'" alt="Sub-Category Image">';
+  echo '<img src="'.$tu.$product->subcatimage()->url().'" alt="Sub-Category Image">';
 }
 ?>
 </p>
@@ -55,10 +56,17 @@ foreach( $page->children()->visible() as $product) {
     <a href="<?php echo $product->url() ?>">
       <picture class="fit">
         <!-- <div class="product-grid__image--holder"> -->
-        <source srcset="<?php echo $product->subcatimage()->toFile()->url() ?>" media="(min-width: 600px)">
-        <source srcset="<?php echo $product->subcatimage()->toFile()->resize(600)->url() ?>" media="(min-width: 400px)">
-        <source srcset="<?php echo $product->subcatimage()->toFile()->resize(300)->url() ?>" media="(min-width: 100px)">
-        <img class="product-grid__image" srcset="<?php echo $product->subcatimage()->toFile()->resize(600)->url() ?>" alt="<?php echo $product->title()->html() ?>">
+
+<?php if($image = $product->subcatimage()->image()): ?>
+<img src="<?php echo $image->url() ?>" alt="">
+
+        <source srcset="<?php echo $image->url() ?>" media="(min-width: 600px)">
+        <source srcset="<?php echo $image->resize(600)->url() ?>" media="(min-width: 400px)">
+        <source srcset="<?php echo $image->resize(300)->url() ?>" media="(min-width: 100px)">
+        <img class="product-grid__image" srcset="<?php echo $image->resize(600)->url() ?>" alt="<?php echo $product->title()->html() ?>">
+
+<?php endif ?>
+
         <!-- </div> -->
       </picture>
     </a>
