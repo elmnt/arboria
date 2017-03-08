@@ -46,9 +46,11 @@ foreach( $page->children()->visible() as $product) {
   echo '<img src="'.$product->url()->subcatimage()->url().'" alt="Sub-Category Image">';
 }
 /*
+
 $product->subcatimage()->url()
 $product->subcatimage()->resize(600)->url()
 $product->subcatimage()->resize(300)->url()
+
 */
 ?>
 </p>
