@@ -43,8 +43,8 @@ allowing more controlled rendering of the whole list
 testing:<br>
 <?php
 foreach( $page->children()->visible() as $product) {
-//$img = $product->subcatimage();
-echo '<img src="'.$product->subcatimage()->toFile()->url().'" alt="Custom Image">';
+  $img = $product->subcatimage();
+  echo '<p>'.$img->resize(600)->url().'</p>';
 }
 ?>
 
