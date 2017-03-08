@@ -36,17 +36,47 @@ The placement/style of the list item...
 allowing more controlled rendering of the whole list
 */
 ?>
-
-
-<div class="grid" style="padding:20px;border:1px solid pink;margin-bottom:20px;">
-<p style="margin-bottom:0;color:pink;">
-testing:<br>
 <?php
+/*
 foreach( $page->children()->visible() as $product) {
   $img = $product->subcatimage();
   echo '<p>'.$img->resize(600)->url().'</p>';
+  $img->url();
 }
+*/
 ?>
 
 </p>
 </div>
+
+<ul class="product-grid__list cf" id="prod_sort_list">
+  <?php
+  foreach($page->children()->visible() as $product):
+  $img = $product->subcatimage(); // Get the custom field image
+  ?><li class="product-grid__item" data-title="<?php echo $product->title()->html() ?>" data-date="<?php echo $product->date('Y-m-d') ?>" data-price="<?php echo $product->price()->html() ?>">
+    <?php if($image = $product->images()->sortBy('sort', 'asc')->first()): ?>
+    <a href="<?php echo $product->url() ?>">
+      <picture class="fit">
+        <!-- <div class="product-grid__image--holder"> -->
+        <source srcset="<?php echo $img->url() ?>" media="(min-width: 600px)">
+        <source srcset="<?php echo $img->resize(600)->url() ?>" media="(min-width: 400px)">
+        <source srcset="<?php echo $img->resize(300)->url() ?>" media="(min-width: 100px)">
+        <img class="product-grid__image" srcset="<?php echo $img->resize(600)->url() ?>" alt="<?php echo $product->title()->html() ?>">
+        <!-- </div> -->
+      </picture>
+    </a>
+    <?php endif ?>
+    <div class="product-grid__wrap">
+    <h5 class="product-grid__title"><a href="<?php echo $product->url() ?>"><?php echo $product->title()->html() ?></a></h5>
+    <p class="product-grid__info"><a href="<?php echo $product->url() ?>"><?php echo $product->partnumber()->html() ?></a></p>
+    <?php // Have not decided if price will remain visible ?>
+    <p class="product-grid__info"><a href="<?php echo $product->url() ?>">MSRP: $<?php echo $product->price()->html() ?></a></p>
+    <?php
+    /*
+    Date is available in the data, but don't show it
+    echo $product->date('Y-m-d')
+    */
+    ?>
+    </div>
+  </li><!--/--><?php endforeach ?>
+</ul>
