@@ -43,11 +43,14 @@ allowing more controlled rendering of the whole list
 testing:<br>
 <?php
 foreach( $page->children()->visible() as $product) {
-  echo '<img src="'.$product->image($product->picturefield()->value())->url().'" alt="Sub-Category Image">';
+  echo '<img src="'.$product->picturefield()->toFile()->url().'" alt="Sub-Category Image">';
 }
 /*
-$product->image($product->picturefield()->value())->resize(600)->url()
-$product->image($product->picturefield()->value())->resize(300)->url()
+
+$product->picturefield()->toFile()->url();
+
+$product->image($product->picturefield())->resize(600)->url()
+$product->image($product->picturefield())->resize(300)->url()
 */
 ?>
 </p>
@@ -59,10 +62,10 @@ $product->image($product->picturefield()->value())->resize(300)->url()
     <a href="<?php echo $product->url() ?>">
       <picture class="fit">
         <!-- <div class="product-grid__image--holder"> -->
-        <source srcset="<?php echo $product->image($product->picturefield()->value())->url() ?>" media="(min-width: 600px)">
-        <source srcset="<?php echo $product->image($product->picturefield()->value())->resize(600)->url() ?>" media="(min-width: 400px)">
-        <source srcset="<?php echo $product->image($product->picturefield()->value())->resize(300)->url() ?>" media="(min-width: 100px)">
-        <img class="product-grid__image" srcset="<?php echo $product->image($product->picturefield()->value())->resize(600)->url() ?>" alt="<?php echo $product->title()->html() ?>">
+        <source srcset="<?php echo $product->image($product->picturefield())->url() ?>" media="(min-width: 600px)">
+        <source srcset="<?php echo $product->image($product->picturefield())->resize(600)->url() ?>" media="(min-width: 400px)">
+        <source srcset="<?php echo $product->image($product->picturefield())->resize(300)->url() ?>" media="(min-width: 100px)">
+        <img class="product-grid__image" srcset="<?php echo $product->image($product->picturefield())->resize(600)->url() ?>" alt="<?php echo $product->title()->html() ?>">
         <!-- </div> -->
       </picture>
     </a>
