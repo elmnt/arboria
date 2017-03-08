@@ -44,24 +44,29 @@ foreach( $page->children()->visible() as $product) {
   $img->url();
 }
 */
+/*
+foreach( $page->children()->visible() as $product) {
+$fp = $page->url();
+$img = $product->subcatimage();
+  echo '<p>'.$fp.$img->resize(600)->url().'</p>'; // example
+}
+*/
 ?>
-
-</p>
-</div>
 
 <ul class="product-grid__list cf" id="prod_sort_list">
   <?php
   foreach($page->children()->visible() as $product):
+  $fp = $page->url(); // page url
   $img = $product->subcatimage(); // Get the custom field image
   ?><li class="product-grid__item" data-title="<?php echo $product->title()->html() ?>" data-date="<?php echo $product->date('Y-m-d') ?>" data-price="<?php echo $product->price()->html() ?>">
     <?php if($image = $product->images()->sortBy('sort', 'asc')->first()): ?>
     <a href="<?php echo $product->url() ?>">
       <picture class="fit">
         <!-- <div class="product-grid__image--holder"> -->
-        <source srcset="<?php echo $img->url() ?>" media="(min-width: 600px)">
-        <source srcset="<?php echo $img->resize(600)->url() ?>" media="(min-width: 400px)">
-        <source srcset="<?php echo $img->resize(300)->url() ?>" media="(min-width: 100px)">
-        <img class="product-grid__image" srcset="<?php echo $img->resize(600)->url() ?>" alt="<?php echo $product->title()->html() ?>">
+        <source srcset="<?php echo $fp.$img->url() ?>" media="(min-width: 600px)">
+        <source srcset="<?php echo $fp.$img->resize(600)->url() ?>" media="(min-width: 400px)">
+        <source srcset="<?php echo $fp.$img->resize(300)->url() ?>" media="(min-width: 100px)">
+        <img class="product-grid__image" srcset="<?php echo $fp.$img->resize(600)->url() ?>" alt="<?php echo $product->title()->html() ?>">
         <!-- </div> -->
       </picture>
     </a>
