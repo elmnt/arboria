@@ -27,28 +27,13 @@ between the list items, which would throw off the grid.
 
 </div>
 
+<div style="padding:10px;border:1px solid pink;margin-bottom:10px;">
 <?php
-/*
-The placement/style of the list item...
-1. backed up against the foreach
-2. comment tag at the end
-...removes the white space issue,
-allowing more controlled rendering of the whole list
-*/
-
-/*
-foreach( $page->children()->visible() as $product) {
-  $img = $product->subcatimage();
-  echo '<p>'.$img->resize(600)->url().'</p>';
-  $img->url();
+foreach($page->images()->filterBy('filename', '*=', 'subcat_') as $img){
+  echo '<p>'.$img.'</p>';
 }
-foreach( $page->children()->visible() as $product) {
-$fp = $product->url();
-$img = $product->subcatimage();
-  echo '<p>'.$fp.$img->resize(600)->url().'</p>'; // example
-}
-*/
 ?>
+</div>
 
 <ul class="product-grid__list cf" id="prod_sort_list">
   <?php
