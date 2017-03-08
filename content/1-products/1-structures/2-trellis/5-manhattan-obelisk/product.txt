@@ -1,0 +1,162 @@
+Title: Manhattan Obelisk
+
+----
+
+Product-description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+----
+
+Sku: 12345678
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 122.11
+
+----
+
+Description: Manhattan Obelisk
+
+----
+
+Partnumber: 860.1698
+
+----
+
+Upc: 
+
+----
+
+Overview: 
+
+Our original Manhattan Obelisk is not just for the urban terrace. This design adds class to any garden, suburban or urban. Provides the perfect support for a range of plants, from the seasonal vegetable to the classic climbing rose; beautifies your space in-between seasons.
+
+Assembled dimensions (w x h): 14" x 56"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: >
+    https://www.amazon.com/gp/product/B004GTMENW/ref=s9_al_bw_g86_i2
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: >
+    https://www.amazon.com/gp/product/B004GTMENW/ref=s9_al_bw_g86_i2
+- 
+  url: >
+    http://www.backyardcity.com/Garden-Trellis/LWO-Manhattan-Trellis-860-1698.htm
+  linktext: BackyardCity.com
+  logo: backyardcity.gif
+  logolink: >
+    http://www.backyardcity.com/Garden-Trellis/LWO-Manhattan-Trellis-860-1698.htm
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1698
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1698
+- 
+  url: >
+    http://www.fifthroom.com/red-cedar-soho-obelisk/7430/
+  linktext: Fifthroom.com
+  logo: fifthroom.gif
+  logolink: >
+    http://www.fifthroom.com/red-cedar-soho-obelisk/7430/
+- 
+  url: >
+    http://www.gardeners.com/buy/manhattan-garden-obelisk/8590469.html
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: >
+    http://www.gardeners.com/buy/manhattan-garden-obelisk/8590469.html
+- 
+  url: >
+    http://www.hayneedle.com/product/manhattantrellis.cfm
+  linktext: Hayneedle.com
+  logo: hayneedle.gif
+  logolink: >
+    http://www.hayneedle.com/product/manhattantrellis.cfm
+- 
+  url: >
+    http://www.homeproductsnmore.com/Manhattan_Obelisk_p/8601698.htm
+  linktext: HomeProductsNMore.com
+  logo: homeproducts.gif
+  logolink: >
+    http://www.homeproductsnmore.com/Manhattan_Obelisk_p/8601698.htm
+- 
+  url: >
+    http://livingoutfitters.com/manhattan-cedar-obelisk-trellis
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/manhattan-cedar-obelisk-trellis
+- 
+  url: http://www.thosbaker.com/cedar-obelisk
+  linktext: ThosBaker.com
+  logo: thosbaker.gif
+  logolink: http://www.thosbaker.com/cedar-obelisk
+- 
+  url: >
+    http://www.whiteflowerfarm.com/56843-product.html
+  linktext: WhiteFlowerFarm.com
+  logo: whiteflower.gif
+  logolink: >
+    http://www.whiteflowerfarm.com/56843-product.html
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

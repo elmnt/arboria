@@ -1,0 +1,262 @@
+  /**
+ * Products
+ */
+
+.container--category {
+   @extend .container;
+   .grid {
+      padding-bottom: 1rem;
+      border-bottom: 1px solid $site-color-c;
+      margin-bottom: 2rem;
+      &:last-of-type {
+         border-bottom: none;
+         margin-bottom: 0;
+      }
+   }
+}
+
+.grid--breadcrumbs {
+   @extend .grid;
+   margin-top: 1rem;
+   padding-bottom: .75rem;
+   border-bottom: 1px solid $site-color-c;
+   margin-bottom: 1rem;
+
+   > .col-6:first-of-type {
+      text-align: center;
+      @include breakpoint(bp-tablet-portrait) {
+         text-align: left;
+      }
+   }
+
+   > .col-6:last-of-type {
+      text-align: center;
+      @include breakpoint(bp-tablet-portrait) {
+         text-align: right;
+      }
+   }
+
+}
+
+.product__breadcrumbs {
+   @extend .list-reset;
+   margin-bottom: 1rem;
+   li {
+      display: inline-block;
+      &:not(:last-of-type):after {
+         content: ' /';
+      }
+      &:not(:first-of-type) a {
+         padding-left: .25rem;
+      }
+      a {
+         padding-right: .25rem;
+         text-decoration: none;
+      }
+      &:last-of-type a {
+         color: $site-color-6;
+      }
+   }
+   @include breakpoint(bp-tablet-portrait) {
+      margin-bottom: 0;
+   }
+}
+
+// Products landing page - hide the masthead image on mobile
+// It's just taking up vertical space
+.products__masthead {
+   display: none;
+   @include above($bp-tablet-portrait) {
+      display: block;
+   }
+}
+
+// Product sorting
+.product__sortlist {
+   @extend .list-reset;
+   margin-left: auto;
+   margin-right: auto;
+
+   li {
+      display: block;
+      &:last-of-type {
+         margin-top: .5rem;
+      }
+      @include breakpoint(bp-tablet-portrait) {
+         display: inline-block;
+         &:last-of-type {
+            margin-top: .0;
+         }
+         &:first-of-type {
+            margin-right: .25rem;
+         }
+      }
+
+      .button {
+         width: 150px;
+         @include breakpoint(bp-tablet-portrait) {
+            width: auto;
+         }
+      }
+
+   }
+}
+
+.product__sortselect {
+   margin-bottom: 1rem;
+   height: 40px;
+   width: 80%;
+   min-width: 300px;
+   border-color: $site-color-c;
+   @include breakpoint(bp-tablet-portrait) {
+      margin-bottom: 0;
+   }
+}
+
+// Holder for product images to add border & padding
+.product__imgs {
+   margin-bottom: 1rem;
+   border: 1px solid $site-color-c;
+   padding: .5rem;
+}
+
+// Holder for the 'additional images' thumbnails
+.product__thumbs {
+   display: inline-block;
+   margin-bottom: 1rem;
+   border: 1px solid $site-color-c;
+   padding: .5rem .5rem .135rem .5rem;
+   ul {
+     @extend .list-reset;
+      li {
+         max-height: 100px;
+         overflow: hidden;
+         display: inline-block;
+      }
+   }
+}
+
+.product__download {
+   padding: 1rem 0;
+   border-top: 1px solid $site-color-c;
+   border-bottom: 1px solid $site-color-c;
+   margin: 1rem 0;
+}
+
+.product__buy {
+   border: 1px solid $site-color-c;
+   margin-bottom: 1rem;
+}
+
+.product__buyinner {
+   padding: .5rem;
+}
+
+.product__buytitle {
+   @extend .h6;
+   margin: 0 0 .5rem 0;
+   background-color: $brand-color-1;
+   color: white;
+   padding: .5rem 1rem;
+   font-weight: $fw-normal;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+
+.product__buytable {
+   border: none;
+   border-collapse: collapse;
+   td {
+      padding: .75rem 1rem;
+      border-top: 1px solid $site-color-c;
+      border-right: none;
+      border-bottom: 1px solid $site-color-c;
+      border-left: none;
+      &:first-of-type {
+         text-align: left;
+      }
+      &:last-of-type {
+         text-align: right;
+      }
+   }
+   tr {
+      &:first-of-type td {
+         border-top: none;
+      }
+      &:last-of-type td {
+         border-bottom: none;
+      }
+   }
+}
+
+.product__buylink {
+   margin: 0;
+   i {
+      vertical-align: bottom;
+   }
+}
+
+.product__buylogo {
+   max-height: 30px;
+   display: inline-block;
+}
+
+.product__buylocal {
+   padding: 1rem;
+}
+
+// Pagination
+.grid--productnav {
+   @extend .grid;
+   border-top: 1px solid $site-color-c;
+   border-bottom: 1px solid $site-color-c;
+   margin-bottom: 1rem;
+}
+
+// Featured products on the individual product pages
+.product__relatedlist {
+   @extend .list-reset;
+}
+.product__relatedimgs {
+   @extend .product__imgs;
+   display: inline-block;
+}
+.product__relatedimg {
+   width: 100%;
+   max-width: 200px;
+}
+
+.product__review {
+   margin: 2rem 0 0 0;
+   &:first-of-type {
+      margin-top: 0;
+   }
+   padding-bottom: 1rem;
+   &:not(:last-of-type) {
+      border-bottom: 1px solid $site-color-c;
+   }
+}
+
+.product__review  i {
+   color: $brand-color-2;
+   font-size: 1rem;
+   line-height: 1em;
+}
+
+.product__review--title {
+   margin: .5rem 0;
+}
+
+.product__review--byline {
+   margin-bottom: .5rem;
+}
+
+// New Customer Review
+
+.product__review-form {}
+
+.product__review-form i {
+   color: $brand-color-2;
+}
+
+

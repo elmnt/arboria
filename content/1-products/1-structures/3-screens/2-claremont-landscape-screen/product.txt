@@ -1,0 +1,120 @@
+Title: Claremont Landscape Screen
+
+----
+
+Product-description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+----
+
+Sku: 12345678
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 115.40
+
+----
+
+Description: Claremont Landscape Screen
+
+----
+
+Partnumber: 860.1143
+
+----
+
+Upc: 
+
+----
+
+Overview: 
+
+This versatile screen is crafted with slats of premium grade Western Cedar set in a classic triple-plaid pattern, framed with smoothly moulded posts and rails. Perfect in your garden, either as an accent piece or supporting climbing plants, as a privacy screen for outdoor living or even as a utility screen. Works great indoors as well. Offered as a single screen (3-pack pictured). Fully assembled.
+
+Assembled dimensions (w x d x h): 27” x 1.375" x 59”
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-Claremont-Cedar-Landscape-Screen/dp/B00I0G3KLW/ref=sr_1_2?ie=UTF8&qid=1470863814&sr=8-2&keywords=Claremont+Landscape+Screen'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-Claremont-Cedar-Landscape-Screen/dp/B00I0G3KLW/ref=sr_1_2?ie=UTF8&qid=1470863814&sr=8-2&keywords=Claremont+Landscape+Screen'
+- 
+  url: >
+    http://www.gardeners.com/buy/claremont-landscape-and-privacy-screen/8590476.html
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: >
+    http://www.gardeners.com/buy/claremont-landscape-and-privacy-screen/8590476.html
+- 
+  url: >
+    http://www.hayneedle.com/product/arboriaclaremontlandscapescreensingle.cfm
+  linktext: Hayneedle.com
+  logo: hayneedle.gif
+  logolink: >
+    http://www.hayneedle.com/product/arboriaclaremontlandscapescreensingle.cfm
+- 
+  url: >
+    http://livingoutfitters.com/claremont-landscape-screen
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/claremont-landscape-screen
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

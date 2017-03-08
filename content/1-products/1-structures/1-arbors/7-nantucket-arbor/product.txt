@@ -1,0 +1,156 @@
+Pagemeta: 
+
+----
+
+Title: Nantucket Arbor
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 531.49
+
+----
+
+Description: Nantucket Arbor
+
+----
+
+Partnumber: 820.1999
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+A truly elegant arbor combining a soft curve of the header with the traditional angularity of the gable. The Craftsman Style features add a custom touch and suggest use as an entry or gateway. The Nantucket offers authentic architecture and quality construction at a modest price. Large Gable header supports heavy vines and foliage. The 47-inch clear opening accommodates wide paths. For lasting strength, the pre-assembled side panels feature furniture-style, mortise and tenon joinery of rail to posts. Lattice panels are double fastened at every joint and set into channels in the surrounding frame with bleed-free hardware. Packaged in a single carton and complete with all hardware and easy-to-use instructions. Includes 4 steel anchors for securing arbor with cement.
+
+Assembled dimensions (width x depth x height): 72.75" x 29" x 97"
+Inside Opening: 47.5"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-820-1998-Victoria-Cedar-Arbor/dp/B0032L888U/ref=sr_1_2?ie=UTF8&qid=1470862114&sr=8-2&keywords=victoria+arbor'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-820-1998-Victoria-Cedar-Arbor/dp/B0032L888U/ref=sr_1_2?ie=UTF8&qid=1470862114&sr=8-2&keywords=victoria+arbor'
+- 
+  url: >
+    http://www.backyardcity.com/Garden-Arbors/LWO-Arbor-820-1999-1.htm
+  linktext: BackyardCity.com
+  logo: backyardcity.gif
+  logolink: >
+    http://www.backyardcity.com/Garden-Arbors/LWO-Arbor-820-1999-1.htm
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1999
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1999
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-nantucket-arbor/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-nantucket-arbor/
+- 
+  url: >
+    http://www.fifthroom.com/red-cedar-essex-arbor/7432/
+  linktext: FIfthroom.com
+  logo: fifthroom.gif
+  logolink: >
+    http://www.fifthroom.com/red-cedar-essex-arbor/7432/
+- 
+  url: >
+    http://www.hayneedle.com/product/nantucketarbor.cfm
+  linktext: Hayneedle.com
+  logo: hayneedle.gif
+  logolink: >
+    http://www.hayneedle.com/product/nantucketarbor.cfm
+- 
+  url: >
+    http://www.homedecorators.com/p/bancroft-nantucket-arch/
+  linktext: HomeDecorators.com
+  logo: homedecorators.gif
+  logolink: >
+    http://www.homedecorators.com/p/bancroft-nantucket-arch/
+- 
+  url: >
+    http://www.homeproductsnmore.com/Nantucket_Arbor_p/8201999.htm
+  linktext: HomeProductsNMore.com
+  logo: homeproducts.gif
+  logolink: >
+    http://www.homeproductsnmore.com/Nantucket_Arbor_p/8201999.htm
+- 
+  url: >
+    http://livingoutfitters.com/nantucket-cedar-arbor
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/nantucket-cedar-arbor
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

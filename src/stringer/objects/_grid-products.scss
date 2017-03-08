@@ -1,0 +1,102 @@
+/**
+ * Custom list item grid styles to display products
+ * on the category & sub-category pages.
+ * NOTE: If you adjust the gutter variable, you MUST change
+ * all the column widths accordingly!!
+ */
+
+$product-gutter: 3%;
+
+// the UL
+.product-grid__list {
+  @extend .list-reset;
+}
+
+// the LI
+.product-grid__item {
+
+  // mobile first
+  display: inline-block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  vertical-align: top;
+
+  // bigger phones & tablets
+  @include between(600px, 800px){
+    margin-right: $product-gutter;
+    width: 48.5%;
+    &:nth-child(2n+2){
+      margin-right: 0;
+    }
+  }
+
+  // tablets
+  @include between(800px, 1200px){
+    margin-right: $product-gutter;
+    width: 31.333333%;
+    &:nth-child(3n+3){
+      margin-right: 0;
+    }
+  }
+
+  // bigger
+  @include above(1200px) {
+    margin-right: $product-gutter;
+    width: 22.75%;
+    &:nth-child(4n+4){
+      margin-right: 0;
+    }
+  }
+
+}
+
+
+/**
+ * Added a holder to crop images to uniform height
+ * Update: Tuesday, March 7, 2017
+ * Uses src/js/image-crop.js
+ *
+ * Add settings for all mq sizes!
+ *
+ */
+.product-grid__image--holder {
+  overflow: hidden;
+  //background-color: $brand-color-1;
+  background-color: #eee;
+}
+.product-grid__image {
+  width: 100%;
+  max-width: 100%;
+}
+
+
+.product-grid__wrap {
+  margin-top: 2px;
+  margin-bottom: 20px;
+  padding: .5rem;
+  border: 1px solid $site-color-c;
+}
+
+.product-grid__title {
+  text-align: center;
+  margin: 0;
+}
+
+.product-grid__info {
+  text-align: center;
+  margin: 0;
+  a {
+    color: $base-text-color;
+    text-decoration: none;
+    &:visited {
+      color: $base-text-color;
+    }
+    &:hover,
+    &:active,
+    &:focus {
+      color: $link-color-hover;
+    }
+  }
+}
+

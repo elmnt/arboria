@@ -1,0 +1,21 @@
+Title: Where to Buy
+
+----
+
+Textone: Select your state to see alpha list of **Arboria** dealers:
+
+----
+
+Texttwo: If there are no **Arboria** dealers in your state, please feel free to (link: /contact text: contact us) for more help!
+
+----
+
+Description: 
+
+----
+
+Text: Inventory will vary from dealer to dealer. We recommend contacting the dealer prior to purchase.
+
+----
+
+Imagecaption: 

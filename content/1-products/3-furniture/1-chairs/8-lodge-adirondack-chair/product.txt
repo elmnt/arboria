@@ -1,0 +1,122 @@
+Pagemeta: 
+
+----
+
+Title: Lodge Adirondack Chair
+
+----
+
+Date: 02/14/2017
+
+----
+
+Price: 251.05
+
+----
+
+Description: Lodge Adirondack Chair
+
+----
+
+Partnumber: 880.3394
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+Perfect for the cabin in the woods or your backyard oasis. Larger than common Adirondacks, this deluxe chair is sure to fit and sure to please. Chair features a high back for full body support.
+
+Assembled dimensions (width x depth x height): 31.5"w x 37"d x 40.75"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: >
+    https://www.amazon.com/gp/product/B004GTMEW8/ref=s9_al_bw_g86_i1
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: >
+    https://www.amazon.com/gp/product/B004GTMEW8/ref=s9_al_bw_g86_i1
+- 
+  url: >
+    http://www.gardenbenches.net/Lodge-Adirondack-Chair-880.3394.aspx
+  linktext: GardenBenches.net
+  logo: gardenbenches.gif
+  logolink: >
+    http://www.gardenbenches.net/Lodge-Adirondack-Chair-880.3394.aspx
+- 
+  url: >
+    http://www.gardeners.com/buy/adirondack-chair-and-ottoman/8589074RS.html
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: >
+    http://www.gardeners.com/buy/adirondack-chair-and-ottoman/8589074RS.html
+- 
+  url: >
+    http://livingoutfitters.com/outdoor-adirondack-lodge-adirondack-chair
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/outdoor-adirondack-lodge-adirondack-chair
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

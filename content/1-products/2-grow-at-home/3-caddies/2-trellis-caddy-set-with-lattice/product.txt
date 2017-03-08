@@ -1,0 +1,106 @@
+Pagemeta: 
+
+----
+
+Title: Trellis Caddy set with Lattice
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 67.19
+
+----
+
+Description: Trellis Caddy set with Lattice
+
+----
+
+Partnumber: 860.1376
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+The Trellis Caddy set includes two Trellis Caddies, with an additional 19”x19” lattice section. Useful for indoor and outdoor locations, the Trellis Caddy Set has limitless functions. Each tray is designed to accommodate three 5” pots, while the trellis back and lattice section are both decorative and functional - pin important notes, photos, recipes or hang herbs for drying. Three utility hooks (included) attach to hold keys, small garden tools, or even a dog leash.
+
+Assembled dimensions (width x depth x height): 57” x 6” x 20”
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-3-Pc-Trellis-Caddy/dp/B00YZU6U1E/ref=pd_sim_sbs_86_5?ie=UTF8&dpID=41o1hzk2pQL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&psc=1&refRID=HRCNCAQ03NM446K1YM31'
+  linktext: www.amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-3-Pc-Trellis-Caddy/dp/B00YZU6U1E/ref=pd_sim_sbs_86_5?ie=UTF8&dpID=41o1hzk2pQL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&psc=1&refRID=HRCNCAQ03NM446K1YM31'
+- 
+  url: >
+    http://www.fifthroom.com/trellis-caddy-set-with-lattice/9626/
+  linktext: Fifthroom.com
+  logo: fifthroom.gif
+  logolink: >
+    http://www.fifthroom.com/trellis-caddy-set-with-lattice/9626/
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

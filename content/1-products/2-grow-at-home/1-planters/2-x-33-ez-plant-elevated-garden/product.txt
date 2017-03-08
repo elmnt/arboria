@@ -1,0 +1,134 @@
+Pagemeta: 
+
+----
+
+Title: 24" x 33" EZ Plant Elevated Garden
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 192.08
+
+----
+
+Description: 24" x 33" EZ Plant Elevated Garden
+
+----
+
+Partnumber: 826.1343
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+This unique planter box is designed to allow gardeners to tend to their plants while standing to avoid back strain. Both sturdy and decorative, the EZ Plant Garden's four tapered legs gracefully support a solidly constructed bed that is crowned with beveled post tops. 2 cubic foot capacity/15 gallons.
+
+Assembled dimensions (width x depth x height): 32.75" x 24" x 32"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-elevated-planter-box/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-elevated-planter-box/
+- 
+  url: >
+    http://www.fifthroom.com/red-cedar-elevated-planter/7441/
+  linktext: Fifthroom.com
+  logo: fifthroom.gif
+  logolink: >
+    http://www.fifthroom.com/red-cedar-elevated-planter/7441/
+- 
+  url: >
+    http://www.hayneedle.com/product/arboriaezplantelevatedgardenstandard3275lx24wx32hin.cfm
+  linktext: Hayneedle.com
+  logo: hayneedle.gif
+  logolink: >
+    http://www.hayneedle.com/product/arboriaezplantelevatedgardenstandard3275lx24wx32hin.cfm
+- 
+  url: >
+    http://livingoutfitters.com/ez-elevated-garden-planter
+  linktext: LIvingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/ez-elevated-garden-planter
+- 
+  url: http://www.thosbaker.com/product/45558
+  linktext: ThosBaker.com
+  logo: thosbaker.gif
+  logolink: http://www.thosbaker.com/product/45558
+- 
+  url: >
+    http://www.whiteflowerfarm.com/57723-product.html
+  linktext: WhiteFlowerFarm.com
+  logo: whiteflower.gif
+  logolink: >
+    http://www.whiteflowerfarm.com/57723-product.html
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

@@ -1,0 +1,67 @@
+/**
+ * Headings
+ */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $heading-font;
+  font-weight: $heading-font-weight;
+  text-rendering: optimizelegibility;
+  margin: $heading-margin;
+  line-height: $heading-line-height;
+}
+
+h1, .h1 {
+  font-size: $h1-size;
+  color: $heading-color;
+}
+
+h2, .h2 {
+  font-size: $h2-size;
+  color: $heading-color;
+}
+
+h3, .h3 {
+  font-size: $h3-size;
+  color: $heading-color-secondary;
+}
+
+h4, .h4 {
+  font-size: $h4-size;
+  color: $heading-color-secondary;
+}
+
+h5, .h5 {
+  font-size: $h5-size;
+  color: $heading-color-secondary;
+}
+
+h6, .h6 {
+  font-size: $h6-size;
+  color: $heading-color-secondary;
+}
+
+h1 a, .h1 a,
+h2 a, .h2 a,
+h3 a, .h3 a,
+h4 a, .h4 a,
+h5 a, .h5 a,
+h6 a, .h6 a {
+  text-decoration: $heading-link-text-decoration;
+}
+
+.hprm {
+  color: $heading-color;
+}
+
+.halt {
+  color: $heading-color-secondary;
+}
+
+.hbase {
+  color: $base-text-color;
+}

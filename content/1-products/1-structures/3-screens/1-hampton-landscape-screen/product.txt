@@ -1,0 +1,116 @@
+Title: Hampton Landscape Screen
+
+----
+
+Product-description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+----
+
+Sku: 12345678
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 172.47
+
+----
+
+Description: Hampton Landscape Screen
+
+----
+
+Partnumber: 861.3162
+
+----
+
+Upc: 
+
+----
+
+Overview: 
+
+This unique, yet classic screen is for the garden deserving of a little more. It is our largest screen and also provides an added degree of privacy without fencing. The elegantly styled lattice pattern will add an air of sophistication to any landscape. Price is per individual screen. Includes two metal stakes for easy installation. May be used on its own, or combine multiple screens together (connecting hardware not included).
+
+Assembled dimensions (w x d x h): 37.75" x 1.375" x 65.5"
+Made in the USA of premium grade, 100% Western Cedar
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: >
+    https://www.amazon.com/gp/product/B004GTMEPU/ref=s9_al_bw_g86_i5
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: >
+    https://www.amazon.com/gp/product/B004GTMEPU/ref=s9_al_bw_g86_i5
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-3162-1
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-3162-1
+- 
+  url: >
+    http://livingoutfitters.com/hampton-landscape-screen-cedar-3-pack
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/hampton-landscape-screen-cedar-3-pack
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

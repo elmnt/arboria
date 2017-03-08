@@ -1,0 +1,117 @@
+Pagemeta: 
+
+----
+
+Title: Spontaneity Folding Chair
+
+----
+
+Date: 02/14/2017
+
+----
+
+Price: 96.83
+
+----
+
+Description: Spontaneity Folding Chair
+
+----
+
+Partnumber: 880.3403
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+Our Spontaneity Folding Chair showcases the same convenience and good looks as its sister armchair, in a slightly more compact form. Best of all, its sturdy build shows that folding doesn't have to mean flimsy. Chair comes fully assembled.
+
+Assembled dimensions (width x depth x height): x 19" x 24.5" x 37"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-880-3403-Spontaneity-Folding-2-Pack/dp/B004GTMEZU/ref=sr_1_4?ie=UTF8&qid=1470867748&sr=8-4&keywords=Spontaneity+Folding+Armchair'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-880-3403-Spontaneity-Folding-2-Pack/dp/B004GTMEZU/ref=sr_1_4?ie=UTF8&qid=1470867748&sr=8-4&keywords=Spontaneity+Folding+Armchair'
+- 
+  url: >
+    http://www.gardenbenches.net/Spontaneity-Folding-Chair-880.3403.aspx
+  linktext: GardenBenches.net
+  logo: gardenbenches.gif
+  logolink: >
+    http://www.gardenbenches.net/Spontaneity-Folding-Chair-880.3403.aspx
+- 
+  url: >
+    http://livingoutfitters.com/spontaneity-folding-patio-chairs-2-pack
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/spontaneity-folding-patio-chairs-2-pack
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 
+
+----
+
+Msrp: 

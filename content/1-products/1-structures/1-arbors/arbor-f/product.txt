@@ -1,0 +1,131 @@
+Title: Arbor F
+
+----
+
+Price: 106
+
+----
+
+Date: 02/06/2016
+
+----
+
+Description: Arbor F
+
+----
+
+Overview: 
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.  
+
+- This is a cool thing about this product
+- This is a cool thing about this product
+- This is a cool thing about this product
+
+----
+
+Download: link-to-pdf
+
+----
+
+Buy-local: (link to Where to Buy page)
+
+----
+
+Buy-online: List of places to buy online
+
+----
+
+Product-review: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+----
+
+Addresses: 
+
+- 
+  url: http://google.com
+  linktext: google.com
+  logo: vendor-logo.gif
+- 
+  url: http://yahoo.com
+  linktext: yahoo.com
+  logo: vendor-logo.gif
+
+----
+
+Buyonline: 
+
+- 
+  url: http://google.com
+  linktext: www.google.com
+  logo: vendor-logo.gif
+  logolink: http://google.com
+- 
+  url: http://yahoo.com
+  linktext: www.yahoo.com
+  logo: vendor-logo.gif
+  logolink: http://yahoo.com
+
+----
+
+Metadescription: Arbor F
+
+----
+
+Partnumber: 123.6666
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 
+
+----
+
+Upc: 72116101328-8

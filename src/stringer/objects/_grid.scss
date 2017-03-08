@@ -1,0 +1,59 @@
+/**
+ * Mobile-First 12-column Grid
+ */
+
+.grid {
+  width: 100%; 
+  &:after {  
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+// Mobile-first single column grid
+[class*='col-'] {
+  float: none; 
+  width: 100%; 
+  margin-right: 0;
+}
+
+// Until we're above this breakpoint
+@include breakpoint(bp-tablet-portrait) {
+
+  // Generate all the column widths
+  @for $column from 1 through $grid-columns {
+    .col-#{$column} {
+      width: (($one-col-width * $column) + (($column - 1) * $grid-gutter) * 1%)
+    }
+  }
+
+  // Add multi-column settings
+  [class*='col-'] {
+    float: left; 
+    margin-right: $grid-gutter * 1%; 
+    .grid &:last-of-type {
+      margin-right: 0; 
+    }
+    border-collapse: collapse !important;
+  }
+
+}
+
+/**
+ * Single column, centered option
+ */
+
+// Use this class on the grid container
+.grid--single {
+  @extend .grid;
+  text-align: center;
+}
+
+.single-col {
+  margin: 0 auto;
+  float: none;
+  text-align: left;
+  width: 100%;
+  max-width: $col-single-max-width;
+}

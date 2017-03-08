@@ -1,0 +1,125 @@
+Pagemeta: 
+
+----
+
+Title: Serenity 4-foot Bench
+
+----
+
+Date: 02/14/2017
+
+----
+
+Price: 271.89
+
+----
+
+Description: Serenity 4-foot Bench
+
+----
+
+Partnumber: 880.3366
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+Equally at home in a modern or traditional setting, the Serenity Bench is quite possibly the most comfortable of its kind. With lumbar support and a curving seat, you might find it difficult to leave once seated. Easy final assembly with key components pre-assembled.
+
+Assembled dimensions (width x depth x height): 47.75" x 28.5" x 34.25"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Phat-Tommy-Serenity-bench-4/dp/B00BL83K7K/ref=sr_1_1?ie=UTF8&qid=1470867652&sr=8-1&keywords=Serenity+4%27+Bench'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Phat-Tommy-Serenity-bench-4/dp/B00BL83K7K/ref=sr_1_1?ie=UTF8&qid=1470867652&sr=8-1&keywords=Serenity+4%27+Bench'
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-serenity-4-ft-bench/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-serenity-4-ft-bench/
+- 
+  url: >
+    http://www.gardenbenches.net/serenity-bench.aspx
+  linktext: GardenBenches.net
+  logo: gardenbenches.gif
+  logolink: >
+    http://www.gardenbenches.net/serenity-bench.aspx
+- 
+  url: 'http://www.gardeners.com/buy/serenity-wood-garden-bench-4-ft/8592888.html#q=serenity&start=2'
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: 'http://www.gardeners.com/buy/serenity-wood-garden-bench-4-ft/8592888.html#q=serenity&start=2'
+- 
+  url: >
+    http://livingoutfitters.com/garden-bench-wooden-serenity-4-ft-bench
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/garden-bench-wooden-serenity-4-ft-bench
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

@@ -1,0 +1,127 @@
+Pagemeta: 
+
+----
+
+Title: Fusion Bench
+
+----
+
+Date: 02/14/2017
+
+----
+
+Price: 228.414
+
+----
+
+Description: Fusion Bench
+
+----
+
+Partnumber: 880.1294
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+The perfect combination of crisp powder-coated steel with the warmth of wood in just the right places. An expression of clean-line modern design in an inviting, approachable piece. Comfortably seats three adults. 
+
+Assembled dimensions (width x depth x height): 52.5” x 20.5” x 35”
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-880-1294-Fusion-Bench/dp/B004GTMF68/ref=sr_1_1?s=home-garden&ie=UTF8&qid=1470867118&sr=8-1&keywords=880.1294'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-880-1294-Fusion-Bench/dp/B004GTMF68/ref=sr_1_1?s=home-garden&ie=UTF8&qid=1470867118&sr=8-1&keywords=880.1294'
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1294
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1294
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-fusion-bench/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-fusion-bench/
+- 
+  url: >
+    http://www.gardenbenches.net/fusion-bench.aspx
+  linktext: GardenBenches.net
+  logo: gardenbenches.gif
+  logolink: >
+    http://www.gardenbenches.net/fusion-bench.aspx
+- 
+  url: >
+    http://livingoutfitters.com/garden-bench-arboria-wooden-fusion-bench
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/garden-bench-arboria-wooden-fusion-bench
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

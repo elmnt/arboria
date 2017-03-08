@@ -1,0 +1,163 @@
+Pagemeta: 
+
+----
+
+Title: Victoria Arbor
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 411.87
+
+----
+
+Description: Victoria Arbor
+
+----
+
+Partnumber: 820.1998
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+The Victoria provides a luxurious, slender entrance to a special place. Designed with smaller spaces in mind, the 36.5 inch clear opening is framed with handsome, finely milled side-panels. For improved stability, the Victoria features smoothly jointed arches mounted directly to edge-molded ledger boards. Airy lattice side panels act as the perfect support for your choice of climbing plants. For lasting strength the arches are constructed with finger-jointed clear cedar with no metal fasteners to stain the wood. The pre-assembled side panels feature furniture-style, mortise and tenon joinery of rail to posts. Lattice panels are double fastened at every joint and set into channels in the surrounding frame with bleed-free hardware. Packaged in a single carton and complete with all hardware and easy-to-use instructions. Includes 4 steel anchors for securing arbor with cement.
+
+Assembled dimensions (width x depth x height): 41.25" x 27" x 87"
+Inside Opening: 36.5"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-820-1998-Victoria-Cedar-Arbor/dp/B0032L888U/ref=sr_1_2?ie=UTF8&qid=1470862114&sr=8-2&keywords=victoria+arbor'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-820-1998-Victoria-Cedar-Arbor/dp/B0032L888U/ref=sr_1_2?ie=UTF8&qid=1470862114&sr=8-2&keywords=victoria+arbor'
+- 
+  url: >
+    http://www.backyardcity.com/Garden-Arbors/LWO-Arbor-Victoria-820-1998-1.htm
+  linktext: BackyardCity.com
+  logo: backyardcity.gif
+  logolink: >
+    http://www.backyardcity.com/Garden-Arbors/LWO-Arbor-Victoria-820-1998-1.htm
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1998
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1998
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-victoria-arbor/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-victoria-arbor/
+- 
+  url: >
+    http://www.gardeners.com/buy/victoria-cedar-arch/37-407.html
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: >
+    http://www.gardeners.com/buy/victoria-cedar-arch/37-407.html
+- 
+  url: >
+    http://www.hayneedle.com/product/victoriaarbor.cfm
+  linktext: Hayneedle.com
+  logo: hayneedle.gif
+  logolink: >
+    http://www.hayneedle.com/product/victoriaarbor.cfm
+- 
+  url: >
+    http://www.homedecorators.com/p/bancroft-victoria-arch/00/910/
+  linktext: HomeDecorators.com
+  logo: homedecorators.gif
+  logolink: >
+    http://www.homedecorators.com/p/bancroft-victoria-arch/00/910/
+- 
+  url: >
+    http://www.homeproductsnmore.com/Victoria_Arbor_p/8201998.htm
+  linktext: HomeProductsNMore.com
+  logo: homeproducts.gif
+  logolink: >
+    http://www.homeproductsnmore.com/Victoria_Arbor_p/8201998.htm
+- 
+  url: >
+    http://livingoutfitters.com/victoria-cedar-arbor
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/victoria-cedar-arbor
+- 
+  url: >
+    http://www.plowhearth.com/victoria-arbor.htm
+  linktext: PlowHearth.com
+  logo: plowhearth.gif
+  logolink: >
+    http://www.plowhearth.com/victoria-arbor.htm
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

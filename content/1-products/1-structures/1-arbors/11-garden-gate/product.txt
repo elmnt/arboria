@@ -1,0 +1,146 @@
+Pagemeta: 
+
+----
+
+Title: Garden Gate
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 189.09
+
+----
+
+Description: Garden Gate
+
+----
+
+Partnumber: 820.3077
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+The Garden Gate is a perfect addition to your Arbor. The lovely lattice design lends a beautiful detail to the gate, and suddenly you have an entrance that commands notice. Step through the gate and you know something different awaits. Fits Rosedale (at 36" setting). Useful to keep animals in or out. 36 inch width. Made in the USA of premium grade, 100% Western Cedar.
+
+Assembled dimensions (width x dheight): 36" x 36"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-36-Inch-Cedar-Garden-Gate/dp/B004GTMEKU/ref=sr_1_1?ie=UTF8&qid=1470862372&sr=8-1&keywords=36%22+Garden+Gate'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-36-Inch-Cedar-Garden-Gate/dp/B004GTMEKU/ref=sr_1_1?ie=UTF8&qid=1470862372&sr=8-1&keywords=36%22+Garden+Gate'
+- 
+  url: >
+    http://www.backyardcity.com/Garden-Arbors/LWO-Garden-Arbor-Gate.htm
+  linktext: BackyardCity.com
+  logo: backyardcity.gif
+  logolink: >
+    http://www.backyardcity.com/Garden-Arbors/LWO-Garden-Arbor-Gate.htm
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-3077
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-3077
+- 
+  url: 'http://www.gardeners.com/buy/cedar-gate-for-rosedale-arch/37-405.html#q=arbor%2Bgate&simplesearch=submit&start=3'
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: 'http://www.gardeners.com/buy/cedar-gate-for-rosedale-arch/37-405.html#q=arbor%2Bgate&simplesearch=submit&start=3'
+- 
+  url: >
+    http://www.hayneedle.com/product/gardengate.cfm
+  linktext: Hayneedle.com
+  logo: hayneedle.gif
+  logolink: >
+    http://www.hayneedle.com/product/gardengate.cfm
+- 
+  url: >
+    http://www.homedecorators.com/p/bancroft-garden-gate/
+  linktext: HomeDecorators.com
+  logo: homedecorators.gif
+  logolink: >
+    http://www.homedecorators.com/p/bancroft-garden-gate/
+- 
+  url: >
+    http://www.homeproductsnmore.com/Garden_Gate_p/8203077.htm
+  linktext: HomeProductsNMore.com
+  logo: homeproducts.gif
+  logolink: >
+    http://www.homeproductsnmore.com/Garden_Gate_p/8203077.htm
+- 
+  url: >
+    http://livingoutfitters.com/cedar-arbor-gate
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/cedar-arbor-gate
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: rosedale-arbor
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

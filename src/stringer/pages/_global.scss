@@ -1,0 +1,115 @@
+/**
+ *
+ * Custom
+ *
+ * This partial is specifically for custom styles,
+ * built on top of the Sass kit. Organize by site section or page,
+ * and use BEM formatting.
+ *
+ */
+
+// A mobile only <br> tag
+.br--mobile {
+   display: block;
+   @include breakpoint(bp-tablet-landscape) {
+      display: none;
+   }
+}
+
+.mobile--show {
+   display: block;
+   @include breakpoint(bp-tablet-portrait) {
+      display: none;
+   }
+}
+.mobile--hide {
+   display: none;
+   @include breakpoint(bp-tablet-portrait) {
+      display: block;
+   }
+}
+
+// Add right margin to any instance of font-awesome icon
+.fa {
+   @extend .mr1;
+}
+
+.page-title {
+   margin-top: 0 !important;
+   margin-bottom: 1rem;
+}
+
+
+/**
+ * Styles pulled from the Uniform plugin
+ */
+.uniform__potty {
+   position: absolute;
+   top: -9999px;
+   left: -9999px;
+}
+
+// And added to assist the form states
+.erroneous,
+.error {
+   color: red;
+}
+.success {
+   color: green;
+}
+
+/**
+ * Some style adjustments to form elements
+ */
+
+.form__panel {
+   border: 2px solid $site-color-c;
+   background-color: $site-color-f;
+   padding: 1rem;
+
+   @media only screen and (min-width: 600px){
+      padding: 2rem;
+   }
+}
+
+// Note about required fields
+.form__note {
+   margin-bottom: 2rem;
+}
+
+.message.error {
+   padding: 1.5rem 2rem;
+   background-color: #fff;
+   border: 2px solid red;
+   margin-bottom: 2rem;
+}
+
+.message.success {
+   padding: 1.5rem 2rem;
+   background-color: #fff;
+   border: 2px solid green;
+   margin-bottom: 2rem;
+}
+
+// mimic the label on a header element on a group
+// (radio or checkbox group, usually)
+.form__mocklabel {
+   // see _forms.scss
+   margin-bottom: 1rem;
+}
+
+// Make the labels on a list of radios or checkboxes
+// look like normal body text
+.form__rclabel {
+   color: $base-text-color;
+   font-size: $base-font-size;
+   @include breakpoint(bp-tablet-landscape) {
+      font-size: $base-font-size-lg;
+   }
+   font-family: $sans;
+   line-height: 1em;
+   font-weight: normal;
+   text-transform: none;
+   margin-bottom: 0;
+   -webkit-font-smoothing: subpixel-antialiased !important;
+}

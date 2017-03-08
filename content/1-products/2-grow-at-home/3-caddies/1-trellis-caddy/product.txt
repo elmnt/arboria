@@ -1,0 +1,106 @@
+Pagemeta: 
+
+----
+
+Title: Trellis Caddy
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 33.47
+
+----
+
+Description: Trellis Caddy
+
+----
+
+Partnumber: 860.1375
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+Useful for indoor and outdoor locations, the Trellis Caddy has limitless functions. The tray is designed to accommodate three 5” pots, while the trellis back is both decorative and functional - pin important notes or photos on the trellis. Three utility hooks (included) attach to hold keys, small garden tools, or even a dog leash.
+
+Assembled dimensions (width x depth x height): 19” x 6” x 20”
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/LWO-Corporation-Arboria-Cedar-Trellis/dp/B012RZO3XK/ref=sr_1_3?s=lawn-garden&ie=UTF8&qid=1470863948&sr=1-3&keywords=Trellis+Caddy'
+  linktext: www.amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/LWO-Corporation-Arboria-Cedar-Trellis/dp/B012RZO3XK/ref=sr_1_3?s=lawn-garden&ie=UTF8&qid=1470863948&sr=1-3&keywords=Trellis+Caddy'
+- 
+  url: >
+    http://www.fifthroom.com/trellis-caddy/9625/
+  linktext: Fifthroom.com
+  logo: fifthroom.gif
+  logolink: >
+    http://www.fifthroom.com/trellis-caddy/9625/
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

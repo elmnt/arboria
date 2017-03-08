@@ -1,0 +1,155 @@
+Pagemeta: 
+
+----
+
+Title: Arbor Seat with Back
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 120.85
+
+----
+
+Description: Arbor Seat with Back
+
+----
+
+Partnumber: 820.3076
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+Add a comfortable seat with back support to your arbor and you have a private garden oasis for reading and relaxing. Let the warmth of the day envelop you as you lose yourself in the peace and quiet of your special place. Fits the Astoria or Rosedale arbor only.
+
+Assembled dimensions (width x depth x height): 42" x 17.5" x 8.5"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-inch-Arbor-Bench-Back/dp/B0009PPSTY/ref=sr_1_1?ie=UTF8&qid=1470862254&sr=8-1&keywords=42%22+Arbor+Seat+w%2Fback'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-inch-Arbor-Bench-Back/dp/B0009PPSTY/ref=sr_1_1?ie=UTF8&qid=1470862254&sr=8-1&keywords=42%22+Arbor+Seat+w%2Fback'
+- 
+  url: >
+    http://www.backyardcity.com/Garden-Arbors/LWO-Astoria-Garden-Arbor-Bench.htm
+  linktext: BackyardCity.com
+  logo: backyardcity.gif
+  logolink: >
+    http://www.backyardcity.com/Garden-Arbors/LWO-Astoria-Garden-Arbor-Bench.htm
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-3076
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-3076
+- 
+  url: >
+    http://www.gardeners.com/buy/cedar-garden-seat-for-rosedale-arch/37-406.html
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: >
+    http://www.gardeners.com/buy/cedar-garden-seat-for-rosedale-arch/37-406.html
+- 
+  url: >
+    http://www.hayneedle.com/product/42incharborbenchwback.cfm
+  linktext: Hayneedle.com
+  logo: hayneedle.gif
+  logolink: >
+    http://www.hayneedle.com/product/42incharborbenchwback.cfm
+- 
+  url: >
+    http://www.homedecorators.com/p/bancroft-seat-with-back/
+  linktext: HomeDecorators.com
+  logo: homedecorators.gif
+  logolink: >
+    http://www.homedecorators.com/p/bancroft-seat-with-back/
+- 
+  url: >
+    http://www.homeproductsnmore.com/Arbor_Seat_p/8203076.htm
+  linktext: HomeProductsNMore.com
+  logo: homeproducts.gif
+  logolink: >
+    http://www.homeproductsnmore.com/Arbor_Seat_p/8203076.htm
+- 
+  url: >
+    http://livingoutfitters.com/cedar-arbor-bench-seat
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/cedar-arbor-bench-seat
+- 
+  url: >
+    http://www.plowhearth.com/astoria-arbor.htm
+  linktext: PlowHearth.com
+  logo: plowhearth.gif
+  logolink: >
+    http://www.plowhearth.com/astoria-arbor.htm
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: rosedale-arbor, astoria-arbor
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

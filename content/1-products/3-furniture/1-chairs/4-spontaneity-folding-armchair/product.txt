@@ -1,0 +1,124 @@
+Pagemeta: 
+
+----
+
+Title: Spontaneity Folding Armchair
+
+----
+
+Date: 02/14/2017
+
+----
+
+Price: 114.70
+
+----
+
+Msrp: 
+
+----
+
+Description: Spontaneity Folding Armchair
+
+----
+
+Partnumber: 880.3402
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+Named for its ability to move easily from shade to sun, yard to lakeside, outdoors to indoors, this sturdy folding chair is comfortable and convenient. The chair's arms add an extra level of comfort and elegance. Chair comes fully assembled.
+
+Assembled dimensions (width x depth x height): 22" x 25" x 38"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-880-3402-7-Arboria2-Pack-Spontaneity-Armchair/dp/B004GTMEYG/ref=sr_1_1?ie=UTF8&qid=1470867748&sr=8-1&keywords=Spontaneity+Folding+Armchair'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-880-3402-7-Arboria2-Pack-Spontaneity-Armchair/dp/B004GTMEYG/ref=sr_1_1?ie=UTF8&qid=1470867748&sr=8-1&keywords=Spontaneity+Folding+Armchair'
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-spontaneity-folding-armchair-set-of-2/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-spontaneity-folding-armchair-set-of-2/
+- 
+  url: >
+    http://www.gardenbenches.net/Spontaneity-Folding-Armchair-880.3402.aspx
+  linktext: GardenBenches.net
+  logo: gardenbenches.gif
+  logolink: >
+    http://www.gardenbenches.net/Spontaneity-Folding-Armchair-880.3402.aspx
+- 
+  url: >
+    http://livingoutfitters.com/spontaneity-folding-patio-armchairs-2-pack
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/spontaneity-folding-patio-armchairs-2-pack
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

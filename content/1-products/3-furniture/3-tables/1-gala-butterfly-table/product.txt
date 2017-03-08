@@ -1,0 +1,107 @@
+Pagemeta: 
+
+----
+
+Title: Gala Butterfly Table
+
+----
+
+Date: 02/14/2017
+
+----
+
+Price: 455.26
+
+----
+
+Description: Gala Butterfly Table
+
+----
+
+Partnumber: 880.3286
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+The perfect accompaniment to any patio. This table is large enough to seat you and your friends and is easily convertible from four-seating to six-seating. When the butterfly is open, the table is 72" long. You'll find it hard to resist an elegant outdoor dinner party with this table. Easy final assembly with key components pre-assembled.
+
+Assembled dimensions (width x depth x height): 51.5-72" x 40" x 28.5"
+Center umbrella hole is 1 9/16" diameter.
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-880-3286-Gala-Butterfly-Table/dp/B004GTMEWS/ref=sr_1_1?ie=UTF8&qid=1470867598&sr=8-1&keywords=Gala+Butterfly+Table'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-880-3286-Gala-Butterfly-Table/dp/B004GTMEWS/ref=sr_1_1?ie=UTF8&qid=1470867598&sr=8-1&keywords=Gala+Butterfly+Table'
+- 
+  url: >
+    http://livingoutfitters.com/outdoor-folding-table-gala-butterfly-table
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/outdoor-folding-table-gala-butterfly-table
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

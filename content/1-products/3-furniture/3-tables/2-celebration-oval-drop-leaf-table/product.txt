@@ -1,0 +1,114 @@
+Pagemeta: 
+
+----
+
+Title: 60" Celebration Oval Drop-Leaf Table
+
+----
+
+Date: 02/14/2017
+
+----
+
+Price: 430.29
+
+----
+
+Description: 60" Celebration Oval Drop-Leaf Table
+
+----
+
+Partnumber: 880.1202
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+Celebrate the everyday gift of time spent with loved ones at this versatile casual dining table. With room for four to six adults, this table allows for all to join in the fun while not taking more than its share of outdoor space. The drop-leaf folding feature allows for easy storage, but more importantly enables the table to be used as a buffet or serving table when only one side is folded down. 
+
+Assembled dimensions (width x depth x height): 60" x 42" x 29.5"
+Center umbrella hole is 1 9/16" diameter.
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/LWO-Corporation-Arboria-Celebration-Table/dp/B00I0FBI2Q/ref=sr_1_fkmr0_1?s=home-garden&ie=UTF8&qid=1470866969&sr=1-1-fkmr0&keywords=60%22+Celebration+Oval+Drop-Leaf+Table'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/LWO-Corporation-Arboria-Celebration-Table/dp/B00I0FBI2Q/ref=sr_1_fkmr0_1?s=home-garden&ie=UTF8&qid=1470866969&sr=1-1-fkmr0&keywords=60%22+Celebration+Oval+Drop-Leaf+Table'
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-celebration-drop-leaf-table/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-celebration-drop-leaf-table/
+- 
+  url: >
+    http://livingoutfitters.com/folding-table-celebration-oval-drop-leaf-table
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/folding-table-celebration-oval-drop-leaf-table
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

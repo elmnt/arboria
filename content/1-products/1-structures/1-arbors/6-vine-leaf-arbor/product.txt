@@ -1,0 +1,102 @@
+Pagemeta: 
+
+----
+
+Title: Vine Leaf Arbor
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 294.72
+
+----
+
+Description: Vine Leaf Arbor
+
+----
+
+Partnumber: 820.1485
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+Graceful and elegant, this pergola-style arbor serves as the perfect centerpiece to a variety of garden landscapes. Classic design and balanced proportions work seamlessly in this timeless piece. Features wide posts for a substantial look. Details such as rounded caps and molded components add a degree of sophistication distinguishing the Vine Leaf Arbor from others. Includes 4 steel anchors for securing arbor with cement.
+
+Assembled dimensions (width x depth x height): 64" x 26" x 82"
+Inside Opening: 42"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1485
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1485
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

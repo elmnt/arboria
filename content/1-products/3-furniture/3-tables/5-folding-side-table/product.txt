@@ -1,0 +1,113 @@
+Pagemeta: 
+
+----
+
+Title: Folding Side Table
+
+----
+
+Date: 02/14/2017
+
+----
+
+Price: 49.13
+
+----
+
+Description: Folding Side Table
+
+----
+
+Partnumber: 880.1371
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+Practical, stylish, sturdy and affordable. What more could one ask for in a table. Our new Folding Side Table is a great addition to any chair or bench setting, indoors or out. This compact and portable table offers your customers the Arboria quality at a value oriented price point.
+
+Assembled dimensions (width x depth x height): 17.75” x 17.75" x 17.5”
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/LWO-Corporation-Arboria-Folding-Table/dp/B00BQRV0Q4/ref=sr_1_2?ie=UTF8&qid=1470867409&sr=8-2&keywords=arboria+Folding+Side+Table'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/LWO-Corporation-Arboria-Folding-Table/dp/B00BQRV0Q4/ref=sr_1_2?ie=UTF8&qid=1470867409&sr=8-2&keywords=arboria+Folding+Side+Table'
+- 
+  url: >
+    http://www.gardenbenches.net/wood-furniture-bistro-table-1.aspx
+  linktext: GardenBenches.net
+  logo: gardenbenches.gif
+  logolink: >
+    http://www.gardenbenches.net/wood-furniture-bistro-table-1.aspx
+- 
+  url: >
+    http://livingoutfitters.com/arboria-folding-side-table-8801371
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/arboria-folding-side-table-8801371
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

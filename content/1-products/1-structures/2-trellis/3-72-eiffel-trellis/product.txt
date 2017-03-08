@@ -1,0 +1,127 @@
+Title: 72" Eiffel Trellis
+
+----
+
+Product-description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+----
+
+Sku: 12345678
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 72.71
+
+----
+
+Description: 72" Eiffel Trellis
+
+----
+
+Partnumber: 860.1137
+
+----
+
+Upc: 
+
+----
+
+Overview: 
+
+A truly unique trellis that contributes a distinctive look to your garden and landscaping. With a subtle Parisian Nod this 6-foot-tall freestanding trellis is just as attractive in the off-season as it is when adorned with the lush greenery of climbing vines and brightly colored blooms.
+
+Assembled dimensions (width x height): 26" x 72"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/LWO-Corporation-Arboria-Eiffel-Trellis/dp/B00JQOAOX4/ref=sr_1_1?ie=UTF8&qid=1470863525&sr=8-1&keywords=72%22+Eiffel+Trellis'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/LWO-Corporation-Arboria-Eiffel-Trellis/dp/B00JQOAOX4/ref=sr_1_1?ie=UTF8&qid=1470863525&sr=8-1&keywords=72%22+Eiffel+Trellis'
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-72-eiffel-tower-trellis/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-72-eiffel-tower-trellis/
+- 
+  url: >
+    http://www.gardeners.com/buy/eiffel-wood-trellis/8590477.html
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: >
+    http://www.gardeners.com/buy/eiffel-wood-trellis/8590477.html
+- 
+  url: >
+    http://www.hayneedle.com/product/arboriaeiffeltrellis72in.cfm
+  linktext: Hayneedle.com
+  logo: hayneedle.gif
+  logolink: >
+    http://www.hayneedle.com/product/arboriaeiffeltrellis72in.cfm
+- 
+  url: >
+    http://livingoutfitters.com/eiffel-cedar-trellis
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/eiffel-cedar-trellis
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

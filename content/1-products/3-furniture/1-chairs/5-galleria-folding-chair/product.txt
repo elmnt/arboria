@@ -1,0 +1,113 @@
+Pagemeta: 
+
+----
+
+Title: Galleria Folding Chair
+
+----
+
+Date: 02/14/2017
+
+----
+
+Price: 103.47
+
+----
+
+Description: Galleria Folding Chair
+
+----
+
+Partnumber: 880.1304
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+A classic hammered iron look with the warmth of a wood finish creates a stunning design in our Galleria Folding Chair. With its subtle modern undertones and contemporary coloring this chair is imbued with the ability to fit into any setting indoors or out.
+
+Assembled dimensions (width x depth x height): 17" x 21.5" x 33.5
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-880-1304-Arboria2-Pack-Galleria-Folding/dp/B004GTMF6S/ref=sr_1_9?ie=UTF8&qid=1470867239&sr=8-9&keywords=Galleria+Folding+Chair'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-880-1304-Arboria2-Pack-Galleria-Folding/dp/B004GTMF6S/ref=sr_1_9?ie=UTF8&qid=1470867239&sr=8-9&keywords=Galleria+Folding+Chair'
+- 
+  url: >
+    http://www.gardenbenches.net/Galleria-Folding-armchair-880.1306.aspx
+  linktext: GardenBenches.net
+  logo: gardenbenches.gif
+  logolink: >
+    http://www.gardenbenches.net/Galleria-Folding-armchair-880.1306.aspx
+- 
+  url: >
+    http://livingoutfitters.com/folding-chairs-set-galleria-2-pack
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/folding-chairs-set-galleria-2-pack
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

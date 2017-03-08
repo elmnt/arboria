@@ -1,0 +1,163 @@
+Pagemeta: 
+
+----
+
+Title: Astoria Arbor
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 447.44
+
+----
+
+Description: Astoria Arbor
+
+----
+
+Partnumber: 820.1997
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+The Astoria is a handsome pergola-style arbor, with its bow-shaped header and well-scaled lattice side panels. This arbor also converts easily into a charming garden seat with the addition of our optional Arbor Seat with Back (sold separately). For lasting strength, the pre-assembled side panels feature furniture-style, mortise and tenon joinery of rail to posts. Lattice panels are double fastened at every joint and set into channels in the surrounding frame with bleed-free hardware. Packaged in a single carton and complete with all hardware and easy-to-use instructions. Includes 4 steel anchors for securing arbor with cement.
+
+Assembled dimensions (width x depth x height): 64" x 29" x 86.25"
+Inside Opening: 42.5"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-820-1997-Astoria-Cedar-Arbor/dp/B003BT5YBC/ref=sr_1_1?ie=UTF8&qid=1470862070&sr=8-1&keywords=astoria+arbor'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-820-1997-Astoria-Cedar-Arbor/dp/B003BT5YBC/ref=sr_1_1?ie=UTF8&qid=1470862070&sr=8-1&keywords=astoria+arbor'
+- 
+  url: >
+    http://www.backyardcity.com/Garden-Arbors/LWO-Astoria-Arbor-820-1997-1.htm
+  linktext: BackyardCity.com
+  logo: backyardcity.gif
+  logolink: >
+    http://www.backyardcity.com/Garden-Arbors/LWO-Astoria-Arbor-820-1997-1.htm
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1997
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1997
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-astoria-arbor/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-astoria-arbor/
+- 
+  url: >
+    http://www.gardeners.com/buy/astoria-pergola-style-cedar-arbor/8590474.html
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: >
+    http://www.gardeners.com/buy/astoria-pergola-style-cedar-arbor/8590474.html
+- 
+  url: >
+    http://www.hayneedle.com/product/astoriaarbor.cfm
+  linktext: Hayneedle.com
+  logo: hayneedle.gif
+  logolink: >
+    http://www.hayneedle.com/product/astoriaarbor.cfm
+- 
+  url: >
+    http://www.homedecorators.com/p/bancroft-astoria-arch/
+  linktext: HomeDecorators.com
+  logo: homedecorators.gif
+  logolink: >
+    http://www.homedecorators.com/p/bancroft-astoria-arch/
+- 
+  url: >
+    http://www.homeproductsnmore.com/Astoria_Arbor_p/8201997.htm
+  linktext: HomeProductsNMore.com
+  logo: homeproducts.gif
+  logolink: >
+    http://www.homeproductsnmore.com/Astoria_Arbor_p/8201997.htm
+- 
+  url: >
+    http://livingoutfitters.com/astoria-cedar-arbor
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/astoria-cedar-arbor
+- 
+  url: >
+    http://www.plowhearth.com/astoria-arbor.htm
+  linktext: PlowHearth.com
+  logo: plowhearth.gif
+  logolink: >
+    http://www.plowhearth.com/astoria-arbor.htm
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

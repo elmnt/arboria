@@ -1,0 +1,106 @@
+Pagemeta: 
+
+----
+
+Title: Galleria Square Table
+
+----
+
+Date: 02/14/2017
+
+----
+
+Price: 166.73
+
+----
+
+Description: Galleria Square Table
+
+----
+
+Partnumber: 880.1307
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+A most worthy table to serve as the centerpiece of our Galleria set. The classic hammered iron look is enhanced by an uncluttered leg design and graceful geometry. The rich hue of the Eucalyptus top offers the ideal contrast to the textured metal frame.
+
+Assembled dimensions (width x depth x height): 28" x 28" x 29.5"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-880-1307-Galleria-Folding-Table/dp/B004GTMF72/ref=sr_1_6?ie=UTF8&qid=1470867299&sr=8-6&keywords=galleria+folding+table'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-880-1307-Galleria-Folding-Table/dp/B004GTMF72/ref=sr_1_6?ie=UTF8&qid=1470867299&sr=8-6&keywords=galleria+folding+table'
+- 
+  url: >
+    http://livingoutfitters.com/folding-table-patio-furniture-galleria-table
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/folding-table-patio-furniture-galleria-table
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

@@ -1,0 +1,120 @@
+Pagemeta: 
+
+----
+
+Title: Islander Sling Chair
+
+----
+
+Date: 02/14/2017
+
+----
+
+Price: 94.35
+
+----
+
+Description: Islander Sling Chair
+
+----
+
+Partnumber: 880.1303
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+It only takes one word to describe this chair. Fun! As ideal at home as it is at the beach or by the pool. The uses are infinate for this store-anywhere armchair. Includes matching pillow for added comfort. Durable red spun-polyester fabric. Adjustable seat position, and folds for storage.
+
+Assembled dimensions (width x depth x height): 25" x 37.5" x 37"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-880-1303-Islander-Sling-Chair/dp/B004GTMF54/ref=sr_1_1?ie=UTF8&qid=1470867196&sr=8-1&keywords=Islander+Sling+Chair'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-880-1303-Islander-Sling-Chair/dp/B004GTMF54/ref=sr_1_1?ie=UTF8&qid=1470867196&sr=8-1&keywords=Islander+Sling+Chair'
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-islander-sling-chair/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-islander-sling-chair/
+- 
+  url: >
+    http://www.gardenbenches.net/Islander-sling-chair-880.1303.aspx
+  linktext: GardenBenches.net
+  logo: gardenbenches.gif
+  logolink: >
+    http://www.gardenbenches.net/Islander-sling-chair-880.1303.aspx
+- 
+  url: >
+    http://livingoutfitters.com/sling-chair-folding-patio-sling-chair
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/sling-chair-folding-patio-sling-chair
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

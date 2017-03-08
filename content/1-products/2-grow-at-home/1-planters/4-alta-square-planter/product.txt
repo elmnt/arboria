@@ -1,0 +1,129 @@
+Pagemeta: 
+
+----
+
+Title: Alta Square Planter
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 100.66
+
+----
+
+Description: Alta Square Planter
+
+----
+
+Partnumber: 826.1350
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+Tapered walls and striated exteriors are just two of the distinct design features that make the Alta planter truly unique. Whether seeding with an array of colorful perennials to grace your entryway or planting with a small tree to improve the privacy of your patio, you will enjoy the natural beauty of this substantial cedar planter year round. Over 2 cu. ft. / 15 gal. capacity.
+
+Assembled dimensions (width x depth x height): 21" x 21" x 15.75"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1350
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1350
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-alta-square-planter/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-alta-square-planter/
+- 
+  url: >
+    http://www.fifthroom.com/red-cedar-rural-planter/7445/
+  linktext: Fifthroom.com
+  logo: fifthroom.gif
+  logolink: >
+    http://www.fifthroom.com/red-cedar-rural-planter/7445/
+- 
+  url: >
+    http://www.hayneedle.com/product/arboriaaltasquareplanter.cfm
+  linktext: Hayneedle.com
+  logo: hayneedle.gif
+  logolink: >
+    http://www.hayneedle.com/product/arboriaaltasquareplanter.cfm
+- 
+  url: >
+    http://livingoutfitters.com/arboria-alta-square-planter-box-8261350
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/arboria-alta-square-planter-box-8261350
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

@@ -1,0 +1,118 @@
+/**
+ * Footer
+ */
+
+[role=contentinfo] {
+    text-align: center;
+}
+
+.container--footer {
+  @extend .container--full;
+  background-color: $footer-background;
+
+  .grid {
+      text-align: center;
+   }
+
+}
+
+.footer__lwologos {
+  margin: 0 auto 1rem auto;
+}
+
+
+.footer__logolink {
+   display: block;
+   width: auto;
+}
+
+@media only screen and (min-width: 600px){
+
+  .footer__logolink {
+     display: inline-block;
+  }
+
+}
+
+.footer__logo {
+   display: inline-block;
+   width: 100%;
+   max-width: 200px;
+}
+
+.footer__logo--ww {
+   display: inline-block;
+   width: 100%;
+   max-width: 175px;
+   margin-top: 2rem;
+   margin-left: 0;
+}
+
+@media only screen and (min-width: 600px){
+
+  .footer__logo--ww {
+     display: inline-block;
+     width: 100%;
+     max-width: 175px;
+     margin-top: 0;
+     margin-left: 3rem;
+  }
+
+}
+
+.footer__nav {
+
+   display: inline-block;
+   list-style-type: none;
+   list-style: none;
+   margin: 0 0 1rem 0;
+   padding: 0;
+   li {
+      display: block;
+      span {
+         display: none;
+      }
+   }
+
+   @include breakpoint(bp-tablet-portrait) {
+      list-style-type: none;
+      list-style: none;
+      margin: 0 0 1rem 0;
+      padding: 0;
+      li {
+         display: inline-block;
+         span {
+            display: inline-block;
+            margin: 0 .5rem 0 .75rem;
+         }
+      }
+   }
+
+}
+
+// Google Drive icon in the footer
+.footer__google {
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 1.75rem;
+}
+
+.footer__google--icon,
+.footer__google--text {
+  display: inline-block;
+}
+
+.footer__google--icon {
+  max-width: 40px;
+}
+
+.footer__google--text {
+  margin-left: .5rem;
+  margin-bottom: 0;
+}
+
+
+
+
+
+

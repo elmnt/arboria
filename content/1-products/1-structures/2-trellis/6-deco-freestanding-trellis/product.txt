@@ -1,0 +1,134 @@
+Title: Deco Freestanding Trellis
+
+----
+
+Product-description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+----
+
+Sku: 12345678
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 87.44
+
+----
+
+Description: Deco Freestanding Trellis
+
+----
+
+Partnumber: 860.1340
+
+----
+
+Upc: 
+
+----
+
+Overview: 
+
+This 70 inch trellis, with its signature art deco styling, gives character and definition to your entryway, porch or patio areas. The trellis unfolds to a 90-degree angle and provides ample support for vines or other climbing plants. For superior strength, this trellis is constructed using premium-grade, thick cedar lath and heavy-duty, pre-installed hinges. The sturdy pot base provides sufficient elevation to allow for water drainage and helps minimize patio staining. Trellis requires no staking when used with potted plant.
+
+Assembled dimensions (width x depth x height): 24.5" x 15.5" x 70"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-Deco-Freestanding-Corner-Trellis/dp/B00C5K9XTC/ref=sr_1_1?ie=UTF8&qid=1470863641&sr=8-1&keywords=Deco+Freestanding+Trellis'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-Deco-Freestanding-Corner-Trellis/dp/B00C5K9XTC/ref=sr_1_1?ie=UTF8&qid=1470863641&sr=8-1&keywords=Deco+Freestanding+Trellis'
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1340
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1340
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-deco-freestanding-trellis/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-deco-freestanding-trellis/
+- 
+  url: >
+    http://www.fifthroom.com/red-cedar-art-deco-freestanding-trellis/7448/
+  linktext: Fifthroom.com
+  logo: fifthroom.gif
+  logolink: >
+    http://www.fifthroom.com/red-cedar-art-deco-freestanding-trellis/7448/
+- 
+  url: >
+    http://www.gardeners.com/buy/deco-freestanding-corner-trellis/8590475.html
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: >
+    http://www.gardeners.com/buy/deco-freestanding-corner-trellis/8590475.html
+- 
+  url: >
+    http://livingoutfitters.com/arboria-deco-freestanding-garden-trellis-8601340
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/arboria-deco-freestanding-garden-trellis-8601340
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

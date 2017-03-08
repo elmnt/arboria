@@ -1,0 +1,203 @@
+/**
+ * Home
+ */
+
+.container--slider {
+   @extend .container--full;
+   margin-top: 0;
+   margin-bottom: 0;
+   background: #fff; //fallback
+   background-image: linear-gradient(to bottom, #f0f5d9 0%, #f0f5d9 30%, #f0f5d9 30%, rgba(255, 255, 255, 0) 30%, rgba(255, 255, 255, 0) 30%), url('/assets/images/bg.png');
+   background-position: right bottom, left top;
+   background-repeat: repeat, repeat;
+   // Give the slider more width than the standard wrap element
+   .wrap {
+      max-width: 1600px;
+   }
+}
+
+.container--slider,
+.container--slider * {
+   //@extend .z5;
+}
+
+// ----------- The three super-categories
+
+.container--prodcats {
+   @extend .container;
+   @extend .bgc-b3-light-o;
+   margin-top: 0;
+   .grid {
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+   }
+   @include breakpoint(bp-tablet-portrait) {
+      .grid {
+         padding-top: 3rem;
+         padding-bottom: 5rem;
+      }
+   }
+}
+
+.homeprodcats__holder {
+   position: relative;
+   margin-bottom: 1rem;
+   @include breakpoint(bp-tablet-portrait) {
+      margin-bottom: 0;
+   }
+}
+
+.homeprodcats__caption {
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   width: 100%;
+}
+
+.homeprodcats__caption {
+   margin-bottom: 1rem;
+   padding: 1rem 2rem;
+   background-color: rgba($brand-color-1, .75);
+   @include breakpoint(bp-tablet-portrait) {
+      margin-bottom: 0;
+   }
+}
+
+.homeprodcats__img {}
+
+.homeprodcats__title,
+.homeprodcats__text {
+   color: $brand-color-2;
+   margin-bottom: .25rem;
+}
+
+.homeprodcats__title {
+   //padding-bottom: .5rem;
+   margin-top: 0;
+   font-weight: 400;
+   //border-bottom: 1px solid rgba($brand-color-3, .125);
+}
+
+.homeprodcats__title i {
+   font-size: .75em;
+}
+
+.homeprodcats__text {
+   &:last-of-type {
+      margin-bottom: 0;
+   }
+}
+
+/*
+.homeprodcats__text span {
+   display: block;
+   text-transform: uppercase;
+   font-size: .75rem;
+   font-weight: 600;
+}
+*/
+
+.homeprodcats__text i {
+   margin-right: 5px;
+}
+
+.homeprodcats__title a,
+.homeprodcats__text a {
+   color: $brand-color-3;
+   &:visited {
+      color: $brand-color-3;
+   }
+   &:hover,
+   &:active,
+   &:focus {
+      color: white;
+   }
+}
+
+.homeprodcats__text a {
+   text-decoration: none;
+}
+
+// ----------- /The three super-categories
+
+// ----------- Featured News / Blog post
+
+.container--homenews {
+   @extend .container;
+   .wrap {
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+   }
+   @include breakpoint(bp-tablet-portrait) {
+      .wrap {
+         margin-top: 3rem;
+         margin-bottom: 3rem;
+      }
+   }
+}
+
+.homenews__title {
+   margin-top: 0;
+}
+
+.homenews__article {
+   //text-transform: uppercase;
+   //padding-top: 2rem;
+   padding-bottom: 0;
+   color: $brand-color-2;
+}
+
+.homenews__meta {
+   color: $site-color-9;
+   text-transform: uppercase;
+}
+
+.homenews__figure {
+   margin-top: 10px;
+}
+
+.homenews__image {
+   width: 100%;
+   max-width: 100%;
+   border: 1px solid #ccc;
+   padding: 10px;
+   margin-bottom: 20px;
+}
+
+// ----------- /Featured News / Blog post
+
+// ----------- Home newsletter sign up
+
+.homenewsletter__container {
+   padding: .5rem;
+   background: $brand-color-3 url('/assets/images/newsletter-plant.png') left bottom no-repeat;
+   border: 2px solid darken($brand-color-3, 10%);
+   @include breakpoint(bp-tablet-portrait) {
+      padding: 3rem;
+   }
+}
+
+.homenewsletter__wrap {
+   padding: 1rem 1.5rem;
+   background-color: rgba(255, 255, 255, .85);
+   @include border-radius($border-radius);
+   @include above(bp-tablet-portrait) {
+      padding: 3rem;
+   }
+}
+
+.homenewsletter__form input {
+   margin-bottom: 0;
+}
+
+.homenewsletter__form button {
+   margin-top: 0;
+   width: 100%;
+}
+
+.homenewsletter__form .ctct-form-footer {
+   font-size: .75rem;
+   line-height: 1.35em;
+}
+
+// ----------- /Home newsletter sign up

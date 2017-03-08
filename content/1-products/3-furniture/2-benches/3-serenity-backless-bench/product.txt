@@ -1,0 +1,127 @@
+Pagemeta: 
+
+----
+
+Title: Serenity Backless Bench
+
+----
+
+Date: 02/14/2017
+
+----
+
+Price: 149.64
+
+----
+
+Description: Serenity Backless Bench
+
+----
+
+Partnumber: 880.1079
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+A backyard essential reborn. This utilitarian bench incorporates modern lines and coordinated design to accompany Arboria Serenity benches, as well as Celebration and Butterfly tables. Generous 5-foot length with graceful curved ends.
+
+Assembled dimensions (width x depth x height): 60" x 15.5" x 15.75"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-880-1079-Serenity-Backless-Bench/dp/B004GTMETG/ref=sr_1_1?s=lawn-garden&ie=UTF8&qid=1470867020&sr=1-1&keywords=Serenity+Backless+Bench'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-880-1079-Serenity-Backless-Bench/dp/B004GTMETG/ref=sr_1_1?s=lawn-garden&ie=UTF8&qid=1470867020&sr=1-1&keywords=Serenity+Backless+Bench'
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1079
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1079
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-serenity-backless-bench/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-serenity-backless-bench/
+- 
+  url: >
+    http://www.gardenbenches.net/serenity-backless-bench.aspx
+  linktext: GardenBenches.net
+  logo: gardenbenches.gif
+  logolink: >
+    http://www.gardenbenches.net/serenity-backless-bench.aspx
+- 
+  url: >
+    http://livingoutfitters.com/backless-bench-serenity-garden-bench
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/backless-bench-serenity-garden-bench
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

@@ -1,0 +1,127 @@
+Pagemeta: 
+
+----
+
+Title: Madrona Arbor
+
+----
+
+Date: 2016-12-7
+
+----
+
+Price: 660.48
+
+----
+
+Description: Madrona Arbor
+
+----
+
+Partnumber: 820.1328
+
+----
+
+Upc: 72116101328-8
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+This substantial and stately arbor commands notice especially when used at the entrance to a garden path or walkway. The Madrona's side panels feature wide-slat, smooth-sanded woodwork with oversized top and bottom rails. The arbor's wide, prominent posts, topped with a gently curved arch, add to the caliber of its design. Classic keystones serve as a finishing touch on front and back arches. For lasting strength, the pre-assembled side panels feature furniture-style, mortise and tenon joinery of rail to posts. Woodwork panels are double fastened at every joint and set into channels in the surrounding frame with bleed-free hardware. Includes 4 galvanized steel anchors for securing arbor with cement.
+
+Assembled dimensions (width x depth x height): 69.75" x 42" x 91"
+
+----
+
+Purchaseoptions: Arboria products are available at a wide variety of both online and physical retailers. Please choose incididunt ut labore et dolore magna aliqua.
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-820-1328-Madrona-Arbor/dp/B00C5K9XHE/ref=sr_1_1?ie=UTF8&qid=1470861516&sr=8-1&keywords=madrona+arbor'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-820-1328-Madrona-Arbor/dp/B00C5K9XHE/ref=sr_1_1?ie=UTF8&qid=1470861516&sr=8-1&keywords=madrona+arbor'
+- 
+  url: >
+    http://www.fifthroom.com/red-cedar-magnolia-arbor/7434/
+  linktext: Fifthroom.com
+  logo: fifthroom.gif
+  logolink: >
+    http://www.fifthroom.com/red-cedar-magnolia-arbor/7434/
+- 
+  url: >
+    http://www.hayneedle.com/product/arboriamadronaarbor.cfm
+  linktext: Hayneedle.com
+  logo: hayneedle.gif
+  logolink: >
+    http://www.hayneedle.com/product/arboriamadronaarbor.cfm
+- 
+  url: >
+    http://www.homeproductsnmore.com/Rosedale_Arbor_p/8201995.htm
+  linktext: HomeProductsNMore.com
+  logo: homeproducts.gif
+  logolink: >
+    http://www.homeproductsnmore.com/Rosedale_Arbor_p/8201995.htm
+- 
+  url: >
+    http://livingoutfitters.com/arboria-madrona-arbor-8201328
+  linktext: LivingOutfitters.com
+  logo: living-outfitters-logo.gif
+  logolink: >
+    http://livingoutfitters.com/arboria-madrona-arbor-8201328
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: galleria-folding-chair
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

@@ -1,0 +1,153 @@
+Pagemeta: 
+
+----
+
+Title: Rosedale Arbor
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 432.75
+
+----
+
+Description: Rosedale Arbor
+
+----
+
+Partnumber: 820.1995
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+To accommodate varying path widths, the Rosedale has an adjustable opening width with pre-drilled settings of 36, 42 and 48 inches. For lasting strength, the pre-assembled side panels feature furniture-style, mortise and tenon joinery of rail to posts. Lattice panels are double fastened at every joint and set into channels in the surrounding frame with bleed-free hardware. Packaged in a single carton and complete with all hardware and easy-to-use instructions. Includes 4 steel anchors for securing arbor with cement.
+
+Assembled dimensions (width x depth x height): 64" x 29" x 84"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-820-1995-Rosedale-Cedar-Arbor/dp/B003BT5YA8/ref=sr_1_1?ie=UTF8&qid=1470861951&sr=8-1&keywords=rosedale+arbor'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-820-1995-Rosedale-Cedar-Arbor/dp/B003BT5YA8/ref=sr_1_1?ie=UTF8&qid=1470861951&sr=8-1&keywords=rosedale+arbor'
+- 
+  url: >
+    http://www.backyardcity.com/Garden-Arbors/LWO-Arbor-Rosedale-820-1995-1.htm
+  linktext: BackyardCity.com
+  logo: backyardcity.gif
+  logolink: >
+    http://www.backyardcity.com/Garden-Arbors/LWO-Arbor-Rosedale-820-1995-1.htm
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1995
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1995
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-rosedale-arbor/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-rosedale-arbor/
+- 
+  url: >
+    http://www.fifthroom.com/red-cedar-rosemont-adjustable-arbor/7381/
+  linktext: Fifthroom.com
+  logo: fifthroom.gif
+  logolink: >
+    http://www.fifthroom.com/red-cedar-rosemont-adjustable-arbor/7381/
+- 
+  url: >
+    http://www.gardenbenches.net/cedar-garden-arbor-with-gate-1.aspx
+  linktext: GardenBenches.net
+  logo: gardenbenches.gif
+  logolink: >
+    http://www.gardenbenches.net/cedar-garden-arbor-with-gate-1.aspx
+- 
+  url: 'http://www.gardeners.com/buy/rose-trellis-arch/37-404.html#q=Rosedale%2BArbor%2B&simplesearch=submit&start=1'
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: 'http://www.gardeners.com/buy/rose-trellis-arch/37-404.html#q=Rosedale%2BArbor%2B&simplesearch=submit&start=1'
+- 
+  url: >
+    http://www.hayneedle.com/product/rosedaleexpandablearbor.cfm
+  linktext: Hayneedle.com
+  logo: hayneedle.gif
+  logolink: >
+    http://www.hayneedle.com/product/rosedaleexpandablearbor.cfm
+- 
+  url: >
+    http://livingoutfitters.com/rosedale-cedar-arbor
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/rosedale-cedar-arbor
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

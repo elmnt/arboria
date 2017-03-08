@@ -1,0 +1,9 @@
+/**
+ * Font Awesome icon settings
+ */
+
+// Add some right padding when font-awesome icons are included in text links
+
+p a .fa {
+   margin-right: $fa-in-text-link-margin-right;
+}

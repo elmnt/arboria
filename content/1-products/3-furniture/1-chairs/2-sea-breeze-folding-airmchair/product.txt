@@ -1,0 +1,120 @@
+Pagemeta: 
+
+----
+
+Title: Sea Breeze Folding Airmchair
+
+----
+
+Date: 02/14/2017
+
+----
+
+Price: 108.34
+
+----
+
+Description: Sea Breeze Folding Airmchair
+
+----
+
+Partnumber: 880.1301
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+The ultimate armchair. This chair combines style, comfort and rugged durability in an easy to store, low-maintenance package. Use it alone, with a coffee table or at your favorite Arboria dining table. Back is durable black Textilene® mesh for all-weather use and worry-free maintenance. Chair comes fully assembled.
+
+Assembled dimensions (width x depth x height): 24" x 26" x 34.5
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-2-Pack-Breeze-Folding-Chair/dp/B004GTMF5Y/ref=sr_1_1?ie=UTF8&qid=1470867072&sr=8-1&keywords=Sea+Breeze+Folding+Chair'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-2-Pack-Breeze-Folding-Chair/dp/B004GTMF5Y/ref=sr_1_1?ie=UTF8&qid=1470867072&sr=8-1&keywords=Sea+Breeze+Folding+Chair'
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-sea-breeze-folding-armchair-set-of-2/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-sea-breeze-folding-armchair-set-of-2/
+- 
+  url: >
+    http://www.gardeners.com/buy/folding-patio-armchairs-seabreeze/8589076.html
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: >
+    http://www.gardeners.com/buy/folding-patio-armchairs-seabreeze/8589076.html
+- 
+  url: >
+    http://livingoutfitters.com/outdoor-folding-chairs-sea-breeze-folding-armchairs-2-pack
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/outdoor-folding-chairs-sea-breeze-folding-armchairs-2-pack
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

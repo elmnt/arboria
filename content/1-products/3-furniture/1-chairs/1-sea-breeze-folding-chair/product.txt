@@ -1,0 +1,113 @@
+Pagemeta: 
+
+----
+
+Title: Sea Breeze Folding Chair
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 84.91
+
+----
+
+Description: Sea Breeze Folding Chair
+
+----
+
+Partnumber: 880.1300
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+Why compromise? This chair combines style, comfort and rugged durability in an easy to store, low-maintenance package. Use it alone, with a coffee table or at your favorite Arboria dining table. Back is durable black Textilene® mesh for all-weather use and worry-free maintenance. Chair comes fully assembled.
+
+Assembled dimensions (width x depth x height): 21" x 25" x 33.5
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-2-Pack-Breeze-Folding-Chair/dp/B004GTMF5O/ref=sr_1_8?ie=UTF8&qid=1470867157&sr=8-8&keywords=Sea+Breeze+Folding+Chair'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-2-Pack-Breeze-Folding-Chair/dp/B004GTMF5O/ref=sr_1_8?ie=UTF8&qid=1470867157&sr=8-8&keywords=Sea+Breeze+Folding+Chair'
+- 
+  url: >
+    http://www.gardenbenches.net/Sea-Breeze-folding-chairs-880.1300.aspx
+  linktext: GardenBenches.net
+  logo: gardenbenches.gif
+  logolink: >
+    http://www.gardenbenches.net/Sea-Breeze-folding-chairs-880.1300.aspx
+- 
+  url: >
+    http://livingoutfitters.com/outdoor-folding-chairs-sea-breeze-2-pack
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/outdoor-folding-chairs-sea-breeze-2-pack
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

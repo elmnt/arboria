@@ -1,0 +1,124 @@
+Title: Berkeley Arbor
+
+----
+
+Price: 749.76
+
+----
+
+Date: 02/11/2016
+
+----
+
+Metadescription: Arbor A
+
+----
+
+Overview: 
+
+This Berkeley is a broad, pergola-style arbor featuring spacious full-length side panels. Nicely detailed with gracefully curved corner braces and furniture style construction for long service with minimum maintenance. Allows a clear opening up to 5 ft. to accommodate various path widths, Berkeley features an adjustable clear opening that can be set at 48.5, 54.5 or 60.5 inches. For lasting strength, the pre-assembled side panels feature furniture-style, mortise and tenon joinery of rail to posts. To support demanding climbing plants the heavy duty lattice panels are double fastened at every joint and set into channels in the surrounding frame with bleed-free hardware. Packaged in a single carton and complete with all hardware and easy-to-use instructions. Includes 4 steel anchors for securing arbor with cement.
+
+Assembled dimensions (width x depth x height): 81.5" x 47.75" x 87"
+Inside Opening: 48.5"-60.5"
+
+----
+
+Purchaseoptions: Arboria products are available at a wide variety of both online and physical retailers. Please choose incididunt ut labore et dolore magna aliqua.
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-820-1694-Berkeley-Cedar-Arbor/dp/B004GTMEHS/ref=sr_1_1?ie=UTF8&qid=1470861920&sr=8-1&keywords=berkeley+arbor'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-820-1694-Berkeley-Cedar-Arbor/dp/B004GTMEHS/ref=sr_1_1?ie=UTF8&qid=1470861920&sr=8-1&keywords=berkeley+arbor'
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1694
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1694
+- 
+  url: >
+    http://www.gardeners.com/buy/berkeley-arbor-adjustable-width-cedar/8590471.html
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: >
+    http://www.gardeners.com/buy/berkeley-arbor-adjustable-width-cedar/8590471.html
+- 
+  url: >
+    http://www.hayneedle.com/product/berkeleyarbor.cfm
+  linktext: Hayneedle.com
+  logo: hayneedle.gif
+  logolink: >
+    http://www.hayneedle.com/product/berkeleyarbor.cfm
+- 
+  url: >
+    http://livingoutfitters.com/berkeley-cedar-arbor
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/berkeley-cedar-arbor
+
+----
+
+Buylocal: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 
+
+----
+
+Productreviews: 
+
+----
+
+Partnumber: 820.1694
+
+----
+
+Upc: 
+
+----
+
+Description: Berkeley Arbor

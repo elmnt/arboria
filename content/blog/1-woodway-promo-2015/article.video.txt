@@ -1,0 +1,29 @@
+Articlemeta: 
+
+----
+
+Title: Woodway Promo 2015
+
+----
+
+Date: 2017-02-16
+
+----
+
+Description: This is a Video Blog Post
+
+----
+
+Tags: Arboria,Videos
+
+----
+
+Articlecontent: 
+
+----
+
+Text: 
+
+(youtube: https://youtu.be/ruNu0FB4xMo)
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

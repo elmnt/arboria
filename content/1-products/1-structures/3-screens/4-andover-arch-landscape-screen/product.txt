@@ -1,0 +1,148 @@
+Title: Andover Arch Landscape Screen
+
+----
+
+Product-description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+----
+
+Sku: 12345678
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 190.26
+
+----
+
+Description: Andover Arch Landscape Screen
+
+----
+
+Partnumber: 861.3146
+
+----
+
+Upc: 
+
+----
+
+Overview: 
+
+Add a touch of elegance to your garden or landscape. The Andover Arch features a finely milled arched cedar frame with finger jointed, furniture style construction. A closely spaced lattice pattern is used to create the body panel--offering privacy without fencing. Includes two 3-ft. metal stakes for easy installation.
+
+Assembled dimensions (w x d x h): 36.25" x 1.375" x 67"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-Andover-Landscape-Screen-Cedar/dp/B004GTMEPU/ref=sr_1_1?s=lawn-garden&ie=UTF8&qid=1470864154&sr=1-1&keywords=Cedar+Andover+Arch+Screen'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-Andover-Landscape-Screen-Cedar/dp/B004GTMEPU/ref=sr_1_1?s=lawn-garden&ie=UTF8&qid=1470864154&sr=1-1&keywords=Cedar+Andover+Arch+Screen'
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-3146
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-3146
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-andover-arch-screen/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-andover-arch-screen/
+- 
+  url: >
+    http://www.fifthroom.com/red-cedar-green-valley-landscape-screen-w2-wings/7439/
+  linktext: Fifthroom.com
+  logo: fifthroom.gif
+  logolink: >
+    http://www.fifthroom.com/red-cedar-green-valley-landscape-screen-w2-wings/7439/
+- 
+  url: >
+    http://www.gardeners.com/buy/cedar-privacy-screen-and-trellis/37-413RS.html
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: >
+    http://www.gardeners.com/buy/cedar-privacy-screen-and-trellis/37-413RS.html
+- 
+  url: >
+    http://www.hayneedle.com/product/arboriaandover5ftcedarwoodarchtrelliswithoptionalsidewings.cfm
+  linktext: Hayneedle.com
+  logo: hayneedle.gif
+  logolink: >
+    http://www.hayneedle.com/product/arboriaandover5ftcedarwoodarchtrelliswithoptionalsidewings.cfm
+- 
+  url: >
+    http://www.homeproductsnmore.com/Cedar_Andover_Arch_Landscape_Screen_p/861.3146.htm
+  linktext: HomeProductsNMore.com
+  logo: homeproducts.gif
+  logolink: >
+    http://www.homeproductsnmore.com/Cedar_Andover_Arch_Landscape_Screen_p/861.3146.htm
+- 
+  url: >
+    http://livingoutfitters.com/andover-arch-landscape-screen-cedar
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/andover-arch-landscape-screen-cedar
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

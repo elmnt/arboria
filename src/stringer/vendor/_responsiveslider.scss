@@ -1,0 +1,233 @@
+/**
+ * Responsive Slider
+ */
+ 
+/*! http://responsiveslides.com v1.54 by @viljamis */
+
+// ----------- rslides core styles
+
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+
+  // Allows the mobile caption to show
+  @include below(900px) {
+    overflow: visible;
+  }
+}
+
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+}
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+}
+
+// ----------- rslides theme
+
+.rslides {
+  margin: 0 auto;
+}
+.rslides_container {
+  margin-bottom: $rslides-margin-bottom;
+  position: relative;
+  float: left;
+  width: 100%;
+}
+
+.rslides1_nav {
+  position: absolute;
+  -webkit-tap-highlight-color: $rslides-tap-color;
+  top: $rslides-nav-top;
+  left: $rslides-nav-left;
+  z-index: $rslides-nav-z-index;
+  opacity: $rslides-nav-opacity;
+  text-indent: -9999px;
+  overflow: hidden;
+  text-decoration: none;
+  // height/width dependent upon the graphic
+  height: 61px;
+  width: 38px;
+  background: transparent url("/assets/images/slider/themes.gif") no-repeat left top;
+  margin-top: -45px;
+}
+.rslides1_nav:active,
+.rslides1_nav:focus,
+.rslides1_nav:hover {
+  opacity: $rslides-nav-opacity-active;
+}
+.rslides1_nav.next {
+  left: auto;
+  background-position: right top;
+  right: 0;
+}
+.rslides1_nav:focus {
+  outline: none;
+}
+
+.rslides_tabs {
+  margin: $rslides-tabs-margin;
+  text-align: center;
+}
+.rslides_tabs li {
+  display: inline;
+  float: none;
+  _float: left;
+  *float: left;
+  margin: $rslides-tabs-li-margin;
+}
+.rslides_tabs a {
+  text-indent: -9999px;
+  overflow: hidden;
+  -webkit-border-radius: $rslides-tabs-radius;
+  -moz-border-radius: $rslides-tabs-radius;
+  border-radius: $rslides-tabs-radius;
+  background: $rslides-tabs-bg-hex;
+  background: $rslides-tabs-bg-rgb;
+  display: inline-block;
+  _display: block;
+  *display: block;
+  -webkit-box-shadow: $rslides-tabs-shadow;
+  -moz-box-shadow: $rslides-tabs-shadow;
+  box-shadow: $rslides-tabs-shadow;
+  width: $rslides-tabs-width;
+  height: $rslides-tabs-height;
+}
+.rslides_tabs .rslides_here a {
+  background: $rslides-tabs-here-hex;
+  background: $rslides-tabs-here-rgb;
+}
+
+.caption {
+
+  position: absolute;
+  display: $rslides-caption-display;
+  top: $rslides-caption-top;
+  bottom: $rslides-caption-bottom;
+  left: $rslides-caption-left;
+  padding: $rslides-caption-padding;
+  width: 50%; // caption is 50% of the slider up to 1200px
+  text-align: $rslides-caption-text-align;
+  background: $rslides-caption-bg-hex;
+  background: $rslides-caption-bg-rgb;
+
+  @include above(1200px) {
+    width: $rslides-caption-width;
+  }
+
+  @include below(900px) {
+    display: none;
+  }
+
+}
+
+.caption-contents {
+  padding: $rslides-caption-contents-padding;
+}
+
+.caption-contents h1,
+.caption-contents--mobile h1 {
+  margin: $rslides-caption-header-margin;
+  padding: $rslides-caption-header-padding;
+  color: $rslides-caption-header-color;
+  font-weight: normal;
+  font-weight: $rslides-caption-header-font-weight;
+  text-transform: $rslides-caption-header-transform;
+  line-height: $rslides-caption-header-line-height;
+}
+
+.caption-contents p,
+.caption-contents--mobile p {
+  color: $caption-contents-text-color;
+}
+
+.caption-contents--mobile .button {
+  margin-bottom: 0;
+}
+
+$rslides-caption-bg-rgb-m: rgba(0,0,0, .75);
+
+.caption--mobile {
+  z-index: -1; // puts it behind the image (while showing the content under it)
+  position: relative;
+  top: 0;
+  display: block;
+  width: 100%;
+  background: $rslides-caption-bg-hex;
+  background: $rslides-caption-bg-rgb-m;
+
+  @include above(900px) {
+    display: none;
+  }
+
+}
+
+.caption-contents--mobile {
+  padding: 2rem;
+  margin-bottom: 1rem;
+  p {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* 
+Force slider1 nav styles into any additional slider(s).
+For some reason, the same styles are not carrying over, even 
+though the instance is the same in docready
+*/
+/*
+.rslides2_nav {
+  position: absolute;
+  top: 50%;
+  left: 0px;
+  z-index: 99;
+  opacity: 0.7;
+  text-indent: -9999px;
+  overflow: hidden;
+  text-decoration: none;
+  height: 61px;
+  width: 38px;
+  background: url("/assets/images/slider/themes.gif") no-repeat scroll left top transparent;
+  margin-top: -45px;
+}
+*/
+/* also force some caption styles */
+/*
+.rslides .caption {
+  position: absolute;
+  display: block;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  padding: 3rem;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; 
+  text-align: center;
+  background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.65);
+  color: #fff; 
+  font-size: 2rem; 
+  line-height: 2.125rem; 
+}
+*/

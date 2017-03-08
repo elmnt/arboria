@@ -1,0 +1,130 @@
+Pagemeta: 
+
+----
+
+Title: Glendale Arbor
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 372.95
+
+----
+
+Description: Glendale Arbor
+
+----
+
+Partnumber: 820.3204
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+The Glendale is a modestly priced version of the popular arched-style arbor. This arbor features airy lattice side panels that provide open support for vines or roses. For lasting strength the arches are constructed with finger-jointed clear cedar with no metal fasteners to stain the wood. The pre-assembled side panels feature furniture-style, mortise and tenon joinery of rail to posts. Lattice panels are double fastened at every joint and set into channels in the surrounding frame with bleed-free hardware. Packaged in a single carton and complete with all hardware and easy-to-use instructions. Includes 4 steel anchors for securing arbor with cement.
+
+Assembled dimensions (width x depth x height): 41.25" x 27" x 86"
+Inside Opening: 36.5"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: >
+    http://www.backyardcity.com/Garden-Arbors/LWO-Arbor-Glendale-820-3204.htm
+  linktext: BackyardCity.com
+  logo: backyardcity.gif
+  logolink: >
+    http://www.backyardcity.com/Garden-Arbors/LWO-Arbor-Glendale-820-3204.htm
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-3204
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-3204
+- 
+  url: >
+    http://www.gardeners.com/buy/glendale-arched-cedar-arbor/8590473.html
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: >
+    http://www.gardeners.com/buy/glendale-arched-cedar-arbor/8590473.html
+- 
+  url: >
+    http://www.homeproductsnmore.com/Glendale_Arbor_p/8203204.htm
+  linktext: HomeProductsNMore.com
+  logo: homeproducts.gif
+  logolink: >
+    http://www.homeproductsnmore.com/Glendale_Arbor_p/8203204.htm
+- 
+  url: >
+    http://livingoutfitters.com/glendale-cedar-arbor
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/glendale-cedar-arbor
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

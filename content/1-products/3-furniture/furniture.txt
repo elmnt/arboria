@@ -1,0 +1,17 @@
+Title: Furniture
+
+----
+
+Text: The entire Arboria furniture line is crafted from high-quality hardwood, rivaling Teak for strength and resistance to nature's elements. Prefinished with mildew-resistant linseed oil that is enhanced with UV-inhibitors, this collection will provide many years of handsome service as it gracefully ages.
+
+----
+
+Featuredname: Sea Breeze Folding Armchair
+
+----
+
+Featuredsku: 8803411
+
+----
+
+Description: 

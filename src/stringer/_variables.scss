@@ -1,0 +1,660 @@
+/**
+ * Settings
+ */
+
+/*
+Start with some global settings on top, so they
+take precedence. Then everything else falls in
+the same order as its placement in styles.scss
+*/
+
+$debug: false;
+
+$spacing:       1rem;
+$spacing-large: $spacing * 2;
+$spacing-small: $spacing / 2;
+
+$border-radius-small: 2px;
+$border-radius:       4px;
+$border-radius-large: 8px;
+
+// ----------- Colors
+
+// Arboria brand colors, dark to light
+
+$brand-color-1: #00461C;
+$brand-color-2: #5AAD41;
+$brand-color-3: #D4E5A0;
+
+$highlight-color-1: #34CAC6;
+$highlight-color-2: #7ED024;
+
+$site-color-3: #333;
+$site-color-6: #666;
+$site-color-9: #999;
+$site-color-c: #ccc;
+$site-color-f: #f9f9f9;
+
+// Some container BG colors
+
+$global-brand-color-light: .4;
+
+.bgc-b1 { background-color: $brand-color-1; }
+.bgc-b2 { background-color: $brand-color-2; }
+.bgc-b3 { background-color: $brand-color-3; }
+
+// lighter versions (40%)
+.bgc-b1-light { background-color: rgba($brand-color-1, .4); }
+.bgc-b2-light { background-color: rgba($brand-color-2, .4); }
+.bgc-b3-light { background-color: rgba($brand-color-3, .4); }
+
+/*
+We need a solid colors ( -o = 'opaque' )
+in addition to the rgba values to avoid transparency.
+We could use some Sass magic to calculate these, but this is just as easy.
+*/
+$bgc-b1-light-o: #a1b4a4;
+$bgc-b2-light-o: #c6ddb4;
+$bgc-b3-light-o: #f0f5d9;
+
+.bgc-b1-light-o { background-color: #a1b4a4; }
+.bgc-b2-light-o { background-color: #c6ddb4; }
+.bgc-b3-light-o { background-color: #f0f5d9; }
+
+/* We probably won't use these anywhere, but just in case:
+.bgc-h1 { background-color: $highlight-color-1; }
+.bgc-h1 { background-color: $highlight-color-2; }
+
+.bgc-sc3 { background-color: $site-color-3; }
+.bgc-sc6 { background-color: $site-color-6; }
+.bgc-sc9 { background-color: $site-color-9; }
+.bgc-scc { background-color: $site-color-c; }
+.bgc-scf { background-color: $site-color-f; }
+*/
+
+$color-warning:   orange;
+$color-error:     red;
+$color-success:   green;
+
+$base-text-color:  $site-color-3;
+$page-background:  white;
+
+// ----------- Type
+
+$sans:      "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$serif:      Georgia, Times, "Times New Roman", serif;
+$mono-font: "Consolas", Monaco, Menlo, "Courier New", monospace;
+
+$fw-normal:   400;
+$fw-semibold: 600;
+$fw-bold:     700;
+
+$base-font-size-lg: 18px;
+$base-font-size:    16px;
+$base-line-height:  1.5em;
+
+/**
+ * Tools
+ * Mixins and functions
+ */
+
+// ----------- tools/mixins
+
+// Add more, as needed, or just use px sizes
+// when you @include the mixin for custom sizes
+
+$bp-mobile-landscape: 481px;
+$bp-tablet-portrait:  769px;
+$bp-tablet-landscape: 1025px;
+$bp-laptop:           1281px;
+$bp-desktop:          1441px;
+
+// ----------- tools/placeholders
+
+/**
+ * Generic
+ * Ground-zero styles
+ */
+
+// ----------- generic/reset
+// ----------- generic/normalize
+// ----------- generic/box-sizing
+
+/**
+ * Base
+ * Unclassed HTML elements
+ */
+
+// ----------- base/figures
+
+$figure-width:     100%;
+$figure-max-width: 100%;
+
+$figure-margin:  0;
+$figure-padding: 0;
+
+$figcaption-margin:           1px 0 1rem 0;
+$figcaption-padding:          1rem;
+$figcaption-font-family:      $sans;
+$figcaption-font-size:        .75rem;
+$figcaption-line-height:      1.125rem;
+$figcaption-color:            $brand-color-2;
+$figcaption-background-color: $brand-color-1;
+
+// ----------- base/forms
+
+/**
+ * base/forms Placed under button settings for inheritance
+ */
+
+// ----------- base/headings
+
+$heading-font:                 $sans;
+$heading-color:                $brand-color-1;
+$heading-color-secondary:      $brand-color-2;
+$heading-font-weight:          $fw-semibold;
+$heading-margin:               $spacing 0;
+$heading-link-text-decoration: none;
+
+$h1-size: 2rem;     //36px
+$h2-size: 1.75rem;  //30px
+$h3-size: 1.5rem;   //24px
+$h4-size: 1.25rem;  //20px
+$h5-size: 1.125rem; //18px
+$h6-size: 1rem;     //16px
+
+$heading-line-height: 1.35em;
+
+// ----------- base/images
+
+$img-vertical-align: middle;
+
+// ----------- base/links
+
+$link-color:                 $brand-color-2;
+$link-color-hover:           $brand-color-3;
+$link-text-decoration:       underline;
+$link-text-decoration-hover: none;
+
+// ----------- base/lists
+
+$list-margin:    $spacing;
+$dt-font-weight: normal;
+$dt-margin:      1em 0 0 0;
+$dt-padding:     0;
+$dd-margin:      0;
+$dd-padding:     0;
+
+// ----------- base/page
+
+$global-trans-property:        all;
+$global-trans-duration:       .5s;
+$global-trans-timing-function: ease-out;
+$global-trans-delay:           0;
+
+$hr-margin-top:    $spacing;
+$hr-margin-bottom: $spacing;
+$hr-border:        none;
+$hr-border-bottom: 1px solid $site-color-3;
+
+$transition-time: 0.25s;
+
+// ----------- base/paragraphs
+
+$pre-margin-bottom: $spacing;
+
+$p-small-font-size:   85%;
+$p-small-font-weight: $fw-semibold;
+
+// ----------- base/quotes
+
+$blockquote-margin:      0 0 $spacing 0;
+$blockquote-padding:     0 0 0 10px;
+$blockquote-color:       $site-color-6;
+$blockquote-border-left: $site-color-6;
+
+// ----------- base/tables
+
+$table-global-font-family: $sans;
+$table-global-font-size:  .8rem;
+$table-global-line-height: 1.25em;
+$table-global-padding:    .5rem;
+
+$table-hide-static-size: 800px; // hide static tables in mobile
+
+$table-border:                 1px solid $brand-color-1;
+
+$table-thead-background-color: $brand-color-1;
+$table-thead-th-color:         white;
+
+$table-th-text-align:          left;
+$table-th-font-family:         $sans;
+$table-th-font-weight:         $fw-semibold;
+$table-th-td-padding:          1rem;
+$table-th-td-line-height:      inherit;
+$table-th-vertical-align:      bottom;
+
+$table-td-vertical-align:      top;
+$table-td-text-align:          left;
+
+$admin-table-border-color:           $brand-color-1;
+$admin-table-thead-background-color: $brand-color-1;
+
+/**
+ * Objects
+ * Cosmetic-free design patterns
+ */
+
+/*
+Setting container-max-width at 100% allows for edge-to-edge layout
+(and edge-to-edge background color even when a wrap is used).
+The (optional) wrap sets a max content width.
+
+|-------------------- screen --------------------|
+|--p--|------------ container -------------|--p--|
+|---------------- container-full ----------------|
+|----------|---------- wrap ----------|----------|
+*/
+
+// ----------- objects/wrappers
+
+$container-max-width:  100%;
+$container-pad:        0 1rem;
+$container-pad-tablet: 0 ($spacing * .75);
+$container-pad-mobile: 0 ($spacing * .5);
+$wrap-max-width:       1200px;
+$wrap-min-width:       100px;
+
+$cmbox-default-background: white;
+$cmbox-default-padding:    4rem;
+$cmbox-default-title:      2rem;
+
+// ----------- objects/grid
+
+$grid-columns:  12;
+$grid-gutter:   5;
+$one-col-width: (100 - (($grid-columns - 1) * $grid-gutter )) / $grid-columns;
+
+/*
+The $one-col-width equation immediately calculates the total % of the 12-column grid
+that is devoted to content columns, based on the gutter width, and stores it in a variable.
+For example:
+1. 12-column grid means 11 internal gutters.
+2. 3% gutter width means 33% of the total grid width is devoted to gutters in a 12-column layout.
+3. So we have 67% of the total grid width to divide into columns.
+
+The formula in the _grid.scss partial uses this variable to set specific widths
+for various column splits. By using this $one-col-width math here, when setting the variables,
+we can simply change the $grid-gutter variable, and everything waterfalls correctly
+inside the _grid.scss partial.
+*/
+
+// And an option for one-column display
+$col-single-max-width: 720px;
+
+// ----------- objects/portfolio
+
+/**
+ * Components
+ * Designed components, chunks of UI
+ */
+
+// ----------- components/alerts
+
+// ----------- components/breadcrumbs
+
+// ----------- components/buttons
+
+$button-font:                $sans;
+$button-background:          $highlight-color-1;
+$button-color:               white;
+$button-text-transform:      none;
+$button-font-weight-default: bold;
+$button-font-weight:         $fw-semibold;
+$button-font-size:           .9rem;
+$button-letter-spacing:      normal;
+$button-word-spacing:        normal;
+$button-padding:             1.25rem 2.25rem;
+$button-margin:              1rem 0;
+$button-border:              none;
+$button-border-radius:       4px;
+
+$button-color-hover:      white;
+$button-background-hover: darken($button-background, 25%);
+
+// alt color button
+
+$button-alt-color:            white;
+$button-alt-background:       $highlight-color-2;
+$button-alt-border:           none;
+$button-alt-color-hover:      white;
+$button-alt-background-hover: darken($highlight-color-2, 25%);
+
+// transparent button
+
+$button-trans-color:            white;
+$button-trans-background:       rgba(255,255,255,.125);
+$button-trans-color-hover:      white;
+$button-trans-background-hover: rgba(255,255,255,.25);
+$button-trans-border:           2px solid white;
+
+// big button
+
+$button-big-padding:   2rem 4rem;
+$button-big-font-size: 1rem;
+
+// small button
+
+$button-small-padding:           .75rem;
+$button-small-font-size:         .75rem;
+$button-small-top-bottom-margin: 0;
+$button-small-text-transform:    uppercase;
+$button-small-border-radius:     $button-border-radius/2;
+$button-small-font-weight:       $fw-bold;
+
+// ------------------------------------------------------- base/forms
+// placed here so they can inherit button styles
+
+$form-input-padding:              .5rem 1rem;
+$form-input-background:           white;
+$form-input-border:               2px solid #999;
+$form-input-border-focus:         2px solid #333;
+$form-input-border-radius:        0;
+$form-input-search-border-radius: $border-radius;
+$form-input-margin-right:         5px;
+$form-input-margin-default:       0 0 1rem 0;
+
+$form-textarea-min-height: 140px;
+$form-textarea-padding:   .5rem;
+
+$form-label-font-size:           .85rem;
+$form-label-line-height:         1em;
+$form-label-font-weight-default: bold;
+$form-label-font-weight:         $fw-semibold;
+$form-label-margin:              .5em 0;
+$form-label-text-transform:      uppercase;
+
+$form-label-span-color:          $site-color-9;
+$form-label-span-text-transform: none;
+
+$form-input-button-padding:          $button-padding;
+$form-input-button-margin:           $button-margin;
+$form-input-button-border:           0;
+$form-input-button-background:       $button-background;
+$form-input-button-background-hover: $button-background-hover;
+$form-input-button-color:            $button-color;
+$form-input-button-font:             $button-font;
+$form-input-button-font-weight:      $button-font-weight;
+$form-input-button-border:           $button-border;
+$form-input-button-border-radius:    $button-border-radius;
+
+$form-required-color: red;
+
+// ------------------------------------------------------- /base/forms
+
+// ----------- components/footer
+
+$footer-background: $bgc-b3-light-o;
+
+// ----------- components/header
+
+// ----------- components/elmenu
+
+$elmenu-mobile-breakpoint: 768px;
+$elmenu-base-color:        #333;
+
+// nav font sizes
+$elmenu-utility-font-size: .85rem;
+$elmenu-social-font-size:  1.5rem;
+$elmenu-main-font-size:    1rem;
+$elmenu-mobile-font-size:  .75rem;
+
+$elmenu-global-line-height: 1em;
+$elmenu-global-font-weight: $fw-normal;
+
+// desktop nav styles
+// navutility
+$elmenu-navutility-background:                  $brand-color-1;
+$elmenu-navutility-link-padding:                1.25rem 1rem;
+$elmenu-navutility-link-color:                  $brand-color-3;
+$elmenu-navutility-link-hover-color:            white;
+$elmenu-navutility-link-background-color:       $brand-color-1;
+$elmenu-navutility-link-hover-background-color: $brand-color-1;
+// navmain
+$elmenu-navmain-background:                  $brand-color-2;
+$elmenu-navmain-link-padding:                1.25rem 1rem;
+$elmenu-navmain-link-color:                  white;
+$elmenu-navmain-link-hover-color:            white;
+$elmenu-navmain-link-background-color:       $brand-color-2;
+$elmenu-navmain-link-hover-background-color: $brand-color-2;
+$elmenu-navmain-link-text-transform:         uppercase;
+
+// navmain subs
+$elmenu-navmain-sub-background:       $brand-color-2;
+$elmenu-navmain-sub-hover-background: lighten($brand-color-2, 8%);
+
+$elmenu-navmain-subsub-background:       lighten($brand-color-2, 8%);
+$elmenu-navmain-subsub-hover-background: lighten($brand-color-2, 16%);
+
+// mobile nav styles
+$elmenu-transition-property: all;
+$elmenu-transition-duration: .3s;
+$elmenu-transition-timing:   ease-out;
+
+$elmenu-toggle-holder-background-color:        $brand-color-1;
+$elmenu-mobile-toggle-holder-background-color: $brand-color-1;
+$elmenu-toggle-button-padding:                 1rem;
+
+$elmenu-background-color: $brand-color-1;
+
+// This should always be 0, unless changing it for visual testing during dev
+$canvas-start-position: 0;
+
+$elmenu-elmobile-width:   400px;
+$elmenu-links-padding:    1.25rem 1rem;
+$elmenu-sublinks-padding: 1.25rem 1rem 1.25rem 2rem;
+
+$elmenu-mobile-subnav-toggle-background-color: orange;
+
+// ----------- components/panels
+
+$panel-background-color: $site-color-f;
+$panel-max-width:        600px;
+$panel-padding:          2rem 3rem;
+$panel-padding-tablet:   1rem 2rem;
+$panel-padding-mobile:   1rem;
+$panel-border:           5px solid $site-color-f;
+$panel-border-radius:    $border-radius;
+$panel-title-color:      white;
+$panel-copy-color:       pink;
+
+// panels for form holder
+$panel-form-background-color: $site-color-f;
+$panel-form-padding:          2rem;
+$panel-form-border:           5px solid $site-color-f;
+
+/**
+ * Vendor
+ * Third-party styles
+ */
+
+// ----------- vendor/animatecss
+
+$base-animation-duration:         1s;
+$hinge-animation-duration:        2s;
+$flip-bounce-animation-duration: .75s;
+
+// ----------- vendor/accordions
+
+$accordion-trigger-padding:       .5rem 1rem;
+$accordion-trigger-color:          white;
+$accordion-trigger-hover-color:    white;
+$accordion-background:             pink;
+$accordion-background-hover-color: $brand-color-1;
+$accordion-open-color:             white;
+$accordion-content-background:     $site-color-f;
+$accordion-content-padding:        1rem;
+
+// ----------- vendor/bgslider
+
+// ----------- vendor/headroom
+
+// ----------- vendor/mmenu/jquery.mmenu.all
+
+// ----------- vendor/mmenu.custom
+
+/*
+
+$mmenu-trigger-align: right;
+$mmm-menu-background-color: $brand-color-1-d2 !important;;
+
+// mmenu font settings
+
+$mmm-font:           $sans;
+$mmm-font-size:      $base-font-size;
+$mmm-line-height:    1em;
+$mmm-text-transform: none;
+
+// mmenu borders
+
+$mmm-li-border: 1px solid white;
+//This variable is just so we can carry the same border
+//over to the utility nav items, which appear below the
+//main nav items in mobile mode
+$mmm-li-border-color: white;
+
+// mmenu link styles
+
+$mmm-link-color:                  white;
+$mmm-link-background-color:       $brand-color-1;
+$mmm-link-background-color-hover: $brand-color-1;
+$mmm-link-padding:                12px;
+
+// mmenu the subopen buttons
+
+
+// mmenu submenus
+
+$mmm-sub-background-color: pink;
+$mmm-sub-border-left:      1px solid white;
+$mmm-sub-link-color:       white;
+$mmm-sub-line-height:      1em;
+$mmm-sub-height:           100%;
+
+// mmenu subopen arrows
+
+$mmm-sub-arrow-color:  rgba(255,255,255,1) !important;
+$mmm-sub-arrow-border: none !important;
+
+// the mmenu utility nav links (they fall under the mmenu main nav links)
+
+$mmm-utility-nav-holder-padding: $mmm-link-padding;
+
+// mmenu navutility styles
+
+$mmm-navutility-links-background:       $brand-color-1-d2;
+$mmm-navutility-social-background:      $brand-color-1-d2;
+$mmm-navutility-input-padding:         .75rem 1rem .65rem 1rem !important;
+$mmm-navutility-input-text-transform:   uppercase !important;
+$mmm-navutility-input-font-size:       .75rem !important;
+$mmm-navutility-input-background-hover: white;
+
+// the mmenu sub-open menus 'back' link
+
+$mmm-subclose-text-transform: uppercase;
+*/
+
+// ----------- vendor/responsiveslider
+
+/*
+We'll need specific breakpoints for the slider, since the content
+is unique. These breakpoint sizes can vary. Choose the optimal breaks,
+based on the content in the slider. The styles are in the partial:
+vendor/_responsiveslider.scss
+*/
+
+$rslides-margin-bottom:            0;
+$rslides-tap-color:                rgba(0,0,0,0);
+$rslides-nav-top:                  50%;
+$rslides-nav-left:                 0;
+$rslides-nav-z-index:              99 !important;
+$rslides-nav-opacity:              0.5;
+$rslides-nav-opacity-active:       1.0;
+$rslides-tabs-margin:              1rem 0 !important;
+$rslides-tabs-li-margin:           0 1rem 0 0;
+$rslides-tabs-radius:              15px;
+$rslides-tabs-bg-hex:              #ccc;
+$rslides-tabs-bg-rgb:              rgba(0,0,0, .2);
+$rslides-tabs-shadow:              inset 0 0 2px 0 rgba(0,0,0,.3);
+$rslides-tabs-width:               15px;
+$rslides-tabs-height:              15px;
+$rslides-tabs-here-hex:            #222;
+$rslides-tabs-here-rgb:            rgba(0,0,0,.8);
+
+$rslides-caption-display:          block;
+$rslides-caption-top:              20px;
+$rslides-caption-bottom:           20px;
+$rslides-caption-left:             20px;
+$rslides-caption-padding:          0;
+$rslides-caption-width:            400px;
+$rslides-caption-text-align:       left;
+$rslides-caption-bg-hex:           #000;
+$rslides-caption-bg-rgb:           rgba(0,0,0, .5);
+
+$rslides-caption-contents-padding: 2rem;
+
+$rslides-caption-header-margin:      0 0 1rem 0;
+$rslides-caption-header-padding:     0;
+$rslides-caption-header-color:       white;
+$rslides-caption-header-font-weight: 400;
+$rslides-caption-header-line-height: 1.125em;
+$rslides-caption-header-transform:   uppercase;
+
+$caption-contents-text-color: white;
+
+// ----------- vendor/form-hack
+
+// Font
+$fh-font-family: 'Raleway', sans-serif !default;
+$fh-font-size: 16px !default;
+$fh-font-color: rgb(40, 40, 40) !default;
+
+// Borders
+$fh-border-radius: 5px !default;
+$fh-border-width: 1px !default;
+$fh-border-style: solid !default;
+$fh-border-color: rgb(200, 200, 200) !default;
+
+// Inputs, Textareas, Select, Option
+$fh-input-height: 40px !default;
+$fh-input-width: 100% !default;
+$fh-input-max-width: 400px !default;
+$fh-input-bg-color: #fff !default;
+$fh-focus-bg-color: rgb(220, 220, 220) !default;
+$fh-focus-border-color: $fh-border-color !default;
+$fh-focus-font-color: $fh-font-color !default;
+
+// Select Vendor Styling
+$fh-allow-select-vendor-styling: true !default;
+
+// Fieldset & Legend Styling
+$fh-fieldset-bare: false !default;
+
+// Buttons & Input Submits
+$fh-button-height: 40px !default;
+$fh-button-width: 100% !default;
+$fh-button-max-width: 200px !default;
+$fh-button-font-color: $fh-font-color !default;
+$fh-button-bg-color: $fh-focus-bg-color !default;
+$fh-button-hover-bg-color: $fh-border-color !default;
+$fh-button-hover-font-color: $fh-font-color !default;
+
+// Layout
+$fh-centered: false !default;
+$fh-display: block !default;
+
+// ----------- vendor/rainbow/solarized.light
+
+// ----------- vendor/font-awesome
+$fa-in-text-link-margin-right: 5px;
+

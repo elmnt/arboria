@@ -1,0 +1,122 @@
+Title: Claremont Landscape Screen - 3-pack
+
+----
+
+Product-description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+----
+
+Sku: 12345678
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 305.42
+
+----
+
+Description: Claremont Landscape Screen - 3-pack
+
+----
+
+Partnumber: 860.1369
+
+----
+
+Upc: 
+
+----
+
+Overview: 
+
+This versatile screen is crafted with slats of premium grade Western Cedar set in a classic triple-plaid pattern, framed with smoothly moulded posts and rails. Perfect in your garden, either as an accent piece or supporting climbing plants, as a privacy screen for outdoor living or even as a utility screen. Works great indoors as well. Fully assembled. Connecting hardware and stakes not included.
+
+Assembled dimensions (w x d x h): 27” x 1.375" x 59”
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1369
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1369
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-claremont-screen-3-pack/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-claremont-screen-3-pack/
+- 
+  url: >
+    http://www.hayneedle.com/product/arboriaclaremontlandscapescreenthreepack.cfm
+  linktext: Hayneedle.com
+  logo: hayneedle.gif
+  logolink: >
+    http://www.hayneedle.com/product/arboriaclaremontlandscapescreenthreepack.cfm
+- 
+  url: >
+    http://livingoutfitters.com/claremont-landscape-screen-3-pack
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/claremont-landscape-screen-3-pack
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

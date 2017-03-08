@@ -1,0 +1,149 @@
+Title: Pyramid Trellis
+
+----
+
+Product-description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+----
+
+Sku: 12345678
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 130.60
+
+----
+
+Description: Pyramid Trellis
+
+----
+
+Partnumber: 860.1074
+
+----
+
+Upc: 
+
+----
+
+Overview: 
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-Cedar-Pyramid-81-Inch-Trellis/dp/B004GTMEMI/ref=sr_1_1?ie=UTF8&qid=1470863569&sr=8'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-Cedar-Pyramid-81-Inch-Trellis/dp/B004GTMEMI/ref=sr_1_1?ie=UTF8&qid=1470863569&sr=8'
+- 
+  url: >
+    http://www.backyardcity.com/Garden-Trellis/LWO-Pyramid-Trellis-Cedar-860-1074.htm
+  linktext: BackyardCity.com
+  logo: backyardcity.gif
+  logolink: >
+    http://www.backyardcity.com/Garden-Trellis/LWO-Pyramid-Trellis-Cedar-860-1074.htm
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1074
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1074
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-pyramid-trellis/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-pyramid-trellis/
+- 
+  url: >
+    http://www.fifthroom.com/red-cedar-pyramid-trellis/7435/
+  linktext: Fifthroom.com
+  logo: fifthroom.gif
+  logolink: >
+    http://www.fifthroom.com/red-cedar-pyramid-trellis/7435/
+- 
+  url: 'http://www.gardeners.com/buy/cedar-wood-pyramid-trellis/8590479.html#q=Pyramid%2BTrellis%2BCedar&simplesearch=submit&start=1'
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: 'http://www.gardeners.com/buy/cedar-wood-pyramid-trellis/8590479.html#q=Pyramid%2BTrellis%2BCedar&simplesearch=submit&start=1'
+- 
+  url: >
+    http://www.homeproductsnmore.com/81_Pyramid_Trellis_p/8601074.htm
+  linktext: HomeProductsNMore.com
+  logo: homeproducts.gif
+  logolink: >
+    http://www.homeproductsnmore.com/81_Pyramid_Trellis_p/8601074.htm
+- 
+  url: >
+    http://livingoutfitters.com/81-cedar-pyramid
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/81-cedar-pyramid
+- 
+  url: >
+    http://www.whiteflowerfarm.com/57753-product.html
+  linktext: WhiteFlowerFarm.com
+  logo: whiteflower.gif
+  logolink: >
+    http://www.whiteflowerfarm.com/57753-product.html
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

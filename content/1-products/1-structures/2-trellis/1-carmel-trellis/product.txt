@@ -1,0 +1,93 @@
+Title: Carmel Trellis
+
+----
+
+Product-description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+----
+
+Sku: 12345678
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 67.86
+
+----
+
+Description: Carmel Trellis
+
+----
+
+Partnumber: 860.1385
+
+----
+
+Upc: 
+
+----
+
+Overview: 
+
+Decorative with or without plants, the classic double-plaid pattern of the Carmel Trellis adds a touch of class to any home and garden. This trellis comes fully assembled and offers a more intricate design for use as trellis or screening. Stakes not included.
+
+Dimensions (width x depth x height): 24” x 1.375” x 68”
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

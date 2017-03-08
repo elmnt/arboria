@@ -1,0 +1,101 @@
+Pagemeta: 
+
+----
+
+Title: Classic Potting Bench
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 341.59
+
+----
+
+Description: Classic Potting Bench
+
+----
+
+Partnumber: 826.1492
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+A refreshed take on a timeless design. The bench top features sliding tops, which open to a soil storage/collection bin. Large sturdy ledgs ensure a solid workspace. 1.3 cubic foot capacity/10.67 gallons.
+
+Assembled dimensions (width x depth x height): 44.75" x 23.75" x 36"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1492
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1492
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

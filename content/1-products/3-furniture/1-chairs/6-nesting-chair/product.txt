@@ -1,0 +1,99 @@
+Pagemeta: 
+
+----
+
+Title: Nesting Chair
+
+----
+
+Date: 02/14/2017
+
+----
+
+Price: 101.75
+
+----
+
+Description: Nesting Chair
+
+----
+
+Partnumber: 880.1372
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+Our Nesting Chair’s cantilevered expression of form and function is an ideal addition to any outdoor ensemble. Contemporary European design combined with Arboria’s legendary hardwood craftsmanship. Paired with Arboria’s new Folding Side Table, this duo provides for ultimate outdoor enjoyment.
+
+Assembled product dimensions (width x depth x height): 18” x 29” x 30.75”
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-880-1372-Nesting-Chair/dp/B00BQRV16I/ref=sr_1_1?ie=UTF8&qid=1470867549&sr=8-1&keywords=arboria+nesting+chair'
+  linktext: Amazon
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-880-1372-Nesting-Chair/dp/B00BQRV16I/ref=sr_1_1?ie=UTF8&qid=1470867549&sr=8-1&keywords=arboria+nesting+chair'
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

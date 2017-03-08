@@ -1,0 +1,128 @@
+Pagemeta: 
+
+----
+
+Title: 42" Celebration Round Drop-Leaf Table
+
+----
+
+Date: 02/14/2017
+
+----
+
+Price: 250.03
+
+----
+
+Description: 42" Celebration Round Drop-Leaf Table
+
+----
+
+Partnumber: 880.3285
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+A lack of storage space shouldn't keep you from owning the perfect table. Bring it out when the sun is shining. Easily fold it up during the winter months. Best of all the Arboria commitment to quality ensures this table will gracefully be of service for many seasons to come.
+
+Assembled dimensions (width x depth x height): 42" x 42" x 28.5"
+Center umbrella hole is 1 9/16" diameter.
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-Celebration-Drop-Leaf-Round-Table/dp/B004GTMF04/ref=sr_1_fkmr0_1?ie=UTF8&qid=1470867551&sr=8-1-fkmr0&keywords=42%22+Celebration+Round+Drop-Leaf+Table'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-Celebration-Drop-Leaf-Round-Table/dp/B004GTMF04/ref=sr_1_fkmr0_1?ie=UTF8&qid=1470867551&sr=8-1-fkmr0&keywords=42%22+Celebration+Round+Drop-Leaf+Table'
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-celebration-round-table-w-4-spontaneity-folding-chair/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-celebration-round-table-w-4-spontaneity-folding-chair/
+- 
+  url: >
+    http://www.gardenbenches.net/Celebration-Drop-Leaf-Table-880.3285.aspx
+  linktext: GardenBenches.net
+  logo: gardenbenches.gif
+  logolink: >
+    http://www.gardenbenches.net/Celebration-Drop-Leaf-Table-880.3285.aspx
+- 
+  url: >
+    http://www.gardeners.com/buy/round-drop-leaf-patio-table/8589078.html
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: >
+    http://www.gardeners.com/buy/round-drop-leaf-patio-table/8589078.html
+- 
+  url: >
+    http://livingoutfitters.com/folding-tables-celebration-drop-leaf-round-table
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/folding-tables-celebration-drop-leaf-round-table
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

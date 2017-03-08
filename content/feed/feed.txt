@@ -1,0 +1,7 @@
+Title: Feed
+
+----
+
+Description:
+
+The blog feed for Baseblog.

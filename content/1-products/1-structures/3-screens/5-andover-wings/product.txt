@@ -1,0 +1,141 @@
+Title: Andover Wings
+
+----
+
+Product-description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+----
+
+Sku: 12345678
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 212.75
+
+----
+
+Description: Andover Wings
+
+----
+
+Partnumber: 861.3151
+
+----
+
+Upc: 
+
+----
+
+Overview: 
+
+The Andover Wing wins praise for its performance as a supporting role to the Andover Arch (sold separately). Featuring a closely spaced lattice pattern which offers privacy without fencing. Andover Wings are sold in pairs. Includes two metal stakes for easy installation. May be used as a separate garden accent, or use the included hinges to attach to the sides of the Andover Arch (sold separately).
+
+Assembled dimensions (w x d x h): 22.5" x 1.375" x 47.5"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: 'https://www.amazon.com/Arboria-Andover-Cedar-Wings-Natural/dp/B01J67DK7M/ref=sr_1_5?s=lawn-garden&ie=UTF8&qid=1470864199&sr=1-5&keywords=Cedar+Andover+Wings'
+  linktext: Amazon.com
+  logo: amazon.gif
+  logolink: 'https://www.amazon.com/Arboria-Andover-Cedar-Wings-Natural/dp/B01J67DK7M/ref=sr_1_5?s=lawn-garden&ie=UTF8&qid=1470864199&sr=1-5&keywords=Cedar+Andover+Wings'
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-3146-KIT
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-3146-KIT
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-andover-wings-set-2/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-andover-wings-set-2/
+- 
+  url: >
+    http://www.fifthroom.com/red-cedar-green-valley-landscape-screen-w2-wings/7439/
+  linktext: Fifthroom.com
+  logo: fifthroom.gif
+  logolink: >
+    http://www.fifthroom.com/red-cedar-green-valley-landscape-screen-w2-wings/7439/
+- 
+  url: >
+    http://www.gardeners.com/buy/cedar-privacy-screen-and-trellis/37-413RS.html
+  linktext: Gardeners.com
+  logo: gardeners.gif
+  logolink: >
+    http://www.gardeners.com/buy/cedar-privacy-screen-and-trellis/37-413RS.html
+- 
+  url: >
+    http://www.hayneedle.com/product/andoversidewings.cfm
+  linktext: Hayneedle.com
+  logo: hayneedle.gif
+  logolink: >
+    http://www.hayneedle.com/product/andoversidewings.cfm
+- 
+  url: >
+    http://www.homeproductsnmore.com/Cedar_Andover_Wings_p/861.3151.htm
+  linktext: HomeProductsNMore.com
+  logo: homeproducts.gif
+  logolink: >
+    http://www.homeproductsnmore.com/Cedar_Andover_Wings_p/861.3151.htm
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

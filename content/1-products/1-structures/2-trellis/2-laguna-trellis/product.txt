@@ -1,0 +1,97 @@
+Title: Laguna Trellis
+
+----
+
+Product-description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+----
+
+Sku: 12345678
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 49.48
+
+----
+
+Description: Laguna Trellis
+
+----
+
+Partnumber: 860.1359
+
+----
+
+Upc: 
+
+----
+
+Overview: 
+
+The Laguna Trellis offers a clean, modern look with an oversized mantle that evokes a touch of the Orient. Decorative with or without plants, the Laguna Trellis comes fully assembled and provides a timeless finished appearance. Stakes not included.
+
+Dimensions (width x depth x height): 30” x 2.5” x 72”
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 
+
+----
+
+Msrp: 49.98

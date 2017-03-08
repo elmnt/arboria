@@ -1,0 +1,129 @@
+Pagemeta: 
+
+----
+
+Title: Alta Rectangular Planter
+
+----
+
+Date: 02/13/2017
+
+----
+
+Price: 127.98
+
+----
+
+Description: Alta Rectangular Planter
+
+----
+
+Partnumber: 826.1368
+
+----
+
+Upc: 
+
+----
+
+Pagecontent: 
+
+----
+
+Overview: 
+
+Tapered walls and striated exteriors are just two of the distinct design features that make the Alta planter truly unique. Whether seeding with colorful perennials to grace your entryway or planting with a small tree to improve the privacy of your patio, you will enjoy the natural beauty of this substantial cedar planter year round. Over 3 cu. ft. / 16 gal. capacity.
+
+Assembled dimensions (width x depth x height): 35.5" x 15.5" x 15.75"
+
+----
+
+Purchaseoptions: 
+
+----
+
+Buyonline: 
+
+- 
+  url: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1368
+  linktext: BestNest.com
+  logo: bestnest.gif
+  logolink: >
+    http://www.bestnest.com/bestnest/RTProduct.asp?SKU=ARB-1368
+- 
+  url: >
+    http://buyerschoiceusa.net/phat-tommy-alta-rectangle-planter/
+  linktext: BuyersChoiceUSA.net
+  logo: phattommy.gif
+  logolink: >
+    http://buyerschoiceusa.net/phat-tommy-alta-rectangle-planter/
+- 
+  url: >
+    http://www.fifthroom.com/red-cedar-rural-planter/7445/
+  linktext: Fifthroom.com
+  logo: fifthroom.gif
+  logolink: >
+    http://www.fifthroom.com/red-cedar-rural-planter/7445/
+- 
+  url: >
+    http://www.hayneedle.com/product/arboriaaltarectangularplanter.cfm
+  linktext: Hayneedle.com
+  logo: hayneedle.gif
+  logolink: >
+    http://www.hayneedle.com/product/arboriaaltarectangularplanter.cfm
+- 
+  url: >
+    http://livingoutfitters.com/arboria-alta-rectangular-planter-box-8261368
+  linktext: LivingOutfitters.com
+  logo: livingoutfitters.gif
+  logolink: >
+    http://livingoutfitters.com/arboria-alta-rectangular-planter-box-8261368
+
+----
+
+Buylocal: 
+
+----
+
+Productreviews: 
+
+----
+
+Relproductsarbors: 
+
+----
+
+Relproductstrellis: 
+
+----
+
+Relproductsscreens: 
+
+----
+
+Relproductsplanters: 
+
+----
+
+Relproductspottingbenches: 
+
+----
+
+Relproductscaddies: 
+
+----
+
+Relproductschairs: 
+
+----
+
+Relproductsbenches: 
+
+----
+
+Relproductstables: 
+
+----
+
+Relproductssets: 

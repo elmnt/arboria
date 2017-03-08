@@ -1,0 +1,70 @@
+/**
+ * Header
+ */
+
+[role=banner] {
+  //text-align: center;
+}
+
+.header,
+.header * {}
+
+// Always keep the header (and its sub-menus) above the slider
+#elmain {
+  position: relative;
+  @extend .z6;
+}
+
+.container--nav {
+  @extend .container;
+}
+
+.container--header {
+  @extend .container--full;
+  background-color: rgba($brand-color-3, .4);
+}
+
+.wrap--header {
+  @extend .wrap;
+  padding: 2rem;
+  @include breakpoint(bp-tablet-portrait) {
+    padding: 3rem 4rem;
+  }
+}
+
+.header__logo {
+  width: 100%;
+  max-width: 220px;
+  margin: 0 auto;
+  @include breakpoint(bp-tablet-portrait) {
+    width: 100%;
+    max-width: 260px;
+  }
+}
+
+.header__title {
+  //@extend .h2;
+  font-size: $h3-size;
+  text-align: center;
+  @include breakpoint(bp-tablet-portrait) {
+    font-size: $h2-size;
+    text-align: left;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+}
+
+.header__ctaholder {
+  text-align: center;
+  @include breakpoint(bp-tablet-portrait) {
+    text-align: right;
+  }
+}
+
+.header__cta {
+  margin: .5rem auto;
+  @include breakpoint(bp-tablet-portrait) {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+}
