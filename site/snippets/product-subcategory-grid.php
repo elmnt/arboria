@@ -5,9 +5,7 @@ Note the li is backed up against the opening foreach,
 and also the comments after the closing tag. This removes white space
 between the list items, which would throw off the grid.
 */
-?>
-
-<div class="grid--breadcrumbs">
+?><div class="grid--breadcrumbs">
 
   <div class="col-6">
     <?php snippet('breadcrumbs') ?>
@@ -39,17 +37,30 @@ allowing more controlled rendering of the whole list
 */
 ?>
 
+
+<div class="grid" style="padding:20px;border:1px solid pink;margin-bottom:20px;">
+<p style="margin-bottom:0;color:pink;">
+testing:<br>
+<?php
+foreach( $page->children()->visible() as $product) {
+$img = $product->subcatimage();
+echo $img->url();
+}
+?>
+</p>
+</div>
+
 <ul class="product-grid__list cf" id="prod_sort_list">
   <?php foreach($page->children()->visible() as $product): ?><li class="product-grid__item" data-title="<?php echo $product->title()->html() ?>" data-date="<?php echo $product->date('Y-m-d') ?>" data-price="<?php echo $product->price()->html() ?>">
     <?php if($image = $product->images()->sortBy('sort', 'asc')->first()): ?>
     <a href="<?php echo $product->url() ?>">
       <picture class="fit">
-        <div class="product-grid__image--holder">
+        <!-- <div class="product-grid__image--holder"> -->
         <source srcset="<?php echo $image->url() ?>" media="(min-width: 600px)">
         <source srcset="<?php echo $image->resize(600)->url() ?>" media="(min-width: 400px)">
         <source srcset="<?php echo $image->resize(300)->url() ?>" media="(min-width: 100px)">
         <img class="product-grid__image" srcset="<?php echo $image->resize(600)->url() ?>" alt="<?php echo $product->title()->html() ?>">
-        </div>
+        <!-- </div> -->
       </picture>
     </a>
     <?php endif ?>

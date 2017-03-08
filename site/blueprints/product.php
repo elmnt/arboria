@@ -28,6 +28,9 @@ fields:
   UPC:
     label: UPC Code
     type:  text
+  subcatimage:
+    label: Sub-Category image for this product (appears on its sub-category page, for instance: Products/Structures/Arbors)
+    type: image
 
   pageContent:
     label: Page Content

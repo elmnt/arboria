@@ -78,8 +78,7 @@ gulp.task('concatScripts', function() {
     //sj + 'picturefill-background.js',
     sj + 'jquery.easing.1.3.js',
     'src/featherlight/featherlight.js',
-    sj + 'main.js',
-    sj + 'image-crop.js'
+    sj + 'main.js'
   ])
   .pipe(concat('app.js'))
   .pipe(gulp.dest(sj));
