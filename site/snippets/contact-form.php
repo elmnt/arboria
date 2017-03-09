@@ -61,11 +61,11 @@
    <div class="mb2">
       <h6 class="form__mocklabel required">I'm interested in Arboria as a:</h6>
       <?php $value = $form->value('interest') ?>
-      <label for="interest-consumer"        class="form__rclabel"><input type="radio" name="interest" id="interest-consumer"        value="Consumer"        <?php e($value=='consumer', ' checked')?> required/>Consumer</label>
+      <label for="interest-consumer"        class="form__rclabel"><input type="radio" name="interest" id="interest-consumer"        value="Consumer"        <?php e($value=='Consumer', ' checked')?> required/>Consumer</label>
       <label for="interest-retailer-dealer" class="form__rclabel"><input type="radio" name="interest" id="interest-retailer-dealer" value="Retailer-Dealer" <?php e($value=='Retailer-Dealer', ' checked')?> required/>Retailer/Dealer</label>
       <label for="interest-landscaper"      class="form__rclabel"><input type="radio" name="interest" id="interest-landscaper"      value="Landscaper"      <?php e($value=='Landscaper', ' checked')?> required/>Landscape Professional</label>
       <label for="interest-media"           class="form__rclabel"><input type="radio" name="interest" id="interest-media"           value="Media"           <?php e($value=='Media', ' checked')?> required/>Media Professional</label>
-      <label for="interest-other"           class="form__rclabel"><input type="radio" name="interest" id="interest-other"           value="Other"           <?php e($value=='O ther', ' checked')?> required/>Other</label>
+      <label for="interest-other"           class="form__rclabel"><input type="radio" name="interest" id="interest-other"           value="Other"           <?php e($value=='Other', ' checked')?> required/>Other</label>
    </div>
 
    <div class="mb2">
