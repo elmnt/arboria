@@ -16,30 +16,21 @@
 <input <?php e($form->hasError('_from'), ' class="erroneous"')?> type="email" name="_from" id="email" value="<?php $form->echoValue('_from') ?>" required/>
 
 <label for="citystate">City and State</label>
-<input <?php e($form->hasError('citystate'), ' class="erroneous"')?> type="text" name="citystate" id="citystate" value="<?php $form->echoValue('citystate') ?>" required/>
+<input <?php e($form->hasError('citystate'), ' class="erroneous"')?> type="text" name="citystate" id="citystate" value="<?php $form->echoValue('citystate') ?>"/>
 
 <label for="reviewtitle">Review Title</label>
-<input <?php e($form->hasError('reviewtitle'), ' class="erroneous"')?> type="text" name="reviewtitle" id="reviewtitle" value="<?php $form->echoValue('reviewtitle') ?>" required/>
+<input <?php e($form->hasError('reviewtitle'), ' class="erroneous"')?> type="text" name="reviewtitle" id="reviewtitle" value="<?php $form->echoValue('reviewtitle') ?>"/>
 
-<p>Product Rating</p>
+<p class="form__mocklabel">Product Rating</p>
 <?php $value = $form->value('reviewrating') ?>
-<label for="reviewrating-one"   class="form__rclabel"><input type="radio" name="reviewrating" id="reviewrating-one"   value="One Star"    <?php e($value=='One Star', ' checked')?> required /><i class="fa fa-star" aria-hidden="true"></i></label>
-<label for="reviewrating-two"   class="form__rclabel"><input type="radio" name="reviewrating" id="reviewrating-two"   value="Two Stars"   <?php e($value=='Two Stars', ' checked')?> required /><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></label>
-<label for="reviewrating-three" class="form__rclabel"><input type="radio" name="reviewrating" id="reviewrating-three" value="Three Stars" <?php e($value=='Three Stars', ' checked')?> required /><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></label>
-<label for="reviewrating-four"  class="form__rclabel"><input type="radio" name="reviewrating" id="reviewrating-four"  value="Four Stars"  <?php e($value=='Four Stars', ' checked')?> required /><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></label>
-<label for="reviewrating-five"  class="form__rclabel"><input type="radio" name="reviewrating" id="reviewrating-five"  value="Five Stars"  <?php e($value=='Five Stars', ' checked')?> required /><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></label>
-
-<?php /*$value = $form->value('interest')*/ ?>
-<!--
-<label for="interest-consumer"        class="form__rclabel"><input type="radio" name="interest" id="interest-consumer"        value="Consumer"        <?php /*e($value=='Consumer', ' checked')*/ ?> required/>Consumer</label>
-<label for="interest-retailer-dealer" class="form__rclabel"><input type="radio" name="interest" id="interest-retailer-dealer" value="Retailer-Dealer" <?php /*e($value=='Retailer-Dealer', ' checked')*/ ?> required/>Retailer/Dealer</label>
-<label for="interest-landscaper"      class="form__rclabel"><input type="radio" name="interest" id="interest-landscaper"      value="Landscaper"      <?php /*e($value=='Landscaper', ' checked')*/ ?> required/>Landscape Professional</label>
-<label for="interest-media"           class="form__rclabel"><input type="radio" name="interest" id="interest-media"           value="Media"           <?php /*e($value=='Media', ' checked')*/ ?> required/>Media Professional</label>
-<label for="interest-other"           class="form__rclabel"><input type="radio" name="interest" id="interest-other"           value="Other"           <?php /*e($value=='Other', ' checked')*/ ?> required/>Other</label>
--->
+<label for="reviewrating-one"   class="form__rclabel"><input type="radio" name="reviewrating" id="reviewrating-one"   value="One Star"    <?php e($value=='One Star', ' checked')?> /><i class="fa fa-star" aria-hidden="true"></i></label>
+<label for="reviewrating-two"   class="form__rclabel"><input type="radio" name="reviewrating" id="reviewrating-two"   value="Two Stars"   <?php e($value=='Two Stars', ' checked')?> /><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></label>
+<label for="reviewrating-three" class="form__rclabel"><input type="radio" name="reviewrating" id="reviewrating-three" value="Three Stars" <?php e($value=='Three Stars', ' checked')?> /><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></label>
+<label for="reviewrating-four"  class="form__rclabel"><input type="radio" name="reviewrating" id="reviewrating-four"  value="Four Stars"  <?php e($value=='Four Stars', ' checked')?> /><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></label>
+<label for="reviewrating-five"  class="form__rclabel"><input type="radio" name="reviewrating" id="reviewrating-five"  value="Five Stars"  <?php e($value=='Five Stars', ' checked')?> /><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></label>
 
 <label for="message" class="mt2">Your Review</label>
-<textarea name="message" id="message" required><?php $form->echoValue('message') ?></textarea>
+<textarea name="message" id="message"><?php $form->echoValue('message') ?></textarea>
 
 <label class="uniform__potty" for="website">Please leave this field blank</label>
 <input type="text" name="website" id="website" class="uniform__potty" />
