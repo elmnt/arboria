@@ -9,27 +9,37 @@
 
 <input type="hidden" name="product_reviewed" value="<?php echo $page->title()->html() ?>" />
 
-<label<?php e($form->hasError('reviewer'), ' class="erroneous"')?> for="reviewer">Your Name</label>
-<input type="text" name="reviewer" id="reviewer" value="<?php $form->echoValue('reviewer') ?>" required/>
+<label for="reviewer">Your Name</label>
+<input <?php e($form->hasError('reviewer'), ' class="erroneous"')?> type="text" name="reviewer" id="reviewer" value="<?php $form->echoValue('reviewer') ?>" required/>
 
-<label<?php e($form->hasError('_from'), ' class="erroneous"')?> for="email">Email</label>
-<input type="email" name="_from" id="email" value="<?php $form->echoValue('_from') ?>" required/>
+<label for="email">Email</label>
+<input <?php e($form->hasError('_from'), ' class="erroneous"')?> type="email" name="_from" id="email" value="<?php $form->echoValue('_from') ?>" required/>
 
-<label<?php e($form->hasError('citystate'), ' class="erroneous"')?> for="citystate">City and State</label>
-<input type="text" name="citystate" id="citystate" value="<?php $form->echoValue('citystate') ?>" required/>
+<label for="citystate">City and State</label>
+<input <?php e($form->hasError('citystate'), ' class="erroneous"')?> type="text" name="citystate" id="citystate" value="<?php $form->echoValue('citystate') ?>" required/>
 
-<label<?php e($form->hasError('reviewtitle'), ' class="erroneous"')?> for="reviewtitle">Review Title</label>
-<input type="text" name="reviewtitle" id="reviewtitle" value="<?php $form->echoValue('reviewtitle') ?>" required/>
+<label for="reviewtitle">Review Title</label>
+<input <?php e($form->hasError('reviewtitle'), ' class="erroneous"')?> type="text" name="reviewtitle" id="reviewtitle" value="<?php $form->echoValue('reviewtitle') ?>" required/>
 
-<label<?php e($form->hasError('reviewrating'), ' class="erroneous"')?> for="reviewrating">Product Rating</label>
-<input type="radio" id="reviewrating" name="reviewrating" value="<?php $form->echoValue('onestar') ?>" />   <i class="fa fa-star" aria-hidden="true"></i><br>
-<input type="radio" id="reviewrating" name="reviewrating" value="<?php $form->echoValue('twostar') ?>" />   <i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><br>
-<input type="radio" id="reviewrating" name="reviewrating" value="<?php $form->echoValue('threestar') ?>" /> <i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><br>
-<input type="radio" id="reviewrating" name="reviewrating" value="<?php $form->echoValue('fourstar') ?>" />  <i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><br>
-<input type="radio" id="reviewrating" name="reviewrating" value="<?php $form->echoValue('fivestar') ?>" />  <i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i>
+<p>Product Rating</p>
+<?php $value = $form->value('reviewrating') ?>
+<label for="reviewrating-one"   class="form__rclabel"><input type="radio" name="reviewrating" id="reviewrating-one"   value="One Star"    <?php e($value=='One Star', ' checked')?> required /><i class="fa fa-star" aria-hidden="true"></i></label>
+<label for="reviewrating-two"   class="form__rclabel"><input type="radio" name="reviewrating" id="reviewrating-two"   value="Two Stars"   <?php e($value=='Two Stars', ' checked')?> required /><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></label>
+<label for="reviewrating-three" class="form__rclabel"><input type="radio" name="reviewrating" id="reviewrating-three" value="Three Stars" <?php e($value=='Three Stars', ' checked')?> required /><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></label>
+<label for="reviewrating-four"  class="form__rclabel"><input type="radio" name="reviewrating" id="reviewrating-four"  value="Four Stars"  <?php e($value=='Four Stars', ' checked')?> required /><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></label>
+<label for="reviewrating-five"  class="form__rclabel"><input type="radio" name="reviewrating" id="reviewrating-five"  value="Five Stars"  <?php e($value=='Five Stars', ' checked')?> required /><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></label>
 
-<label<?php e($form->hasError('message'), ' class="erroneous"')?> for="message" class="mt2">Your Review</label>
-<textarea name="message" id="message"><?php $form->echoValue('message') ?></textarea>
+<?php /*$value = $form->value('interest')*/ ?>
+<!--
+<label for="interest-consumer"        class="form__rclabel"><input type="radio" name="interest" id="interest-consumer"        value="Consumer"        <?php /*e($value=='Consumer', ' checked')*/ ?> required/>Consumer</label>
+<label for="interest-retailer-dealer" class="form__rclabel"><input type="radio" name="interest" id="interest-retailer-dealer" value="Retailer-Dealer" <?php /*e($value=='Retailer-Dealer', ' checked')*/ ?> required/>Retailer/Dealer</label>
+<label for="interest-landscaper"      class="form__rclabel"><input type="radio" name="interest" id="interest-landscaper"      value="Landscaper"      <?php /*e($value=='Landscaper', ' checked')*/ ?> required/>Landscape Professional</label>
+<label for="interest-media"           class="form__rclabel"><input type="radio" name="interest" id="interest-media"           value="Media"           <?php /*e($value=='Media', ' checked')*/ ?> required/>Media Professional</label>
+<label for="interest-other"           class="form__rclabel"><input type="radio" name="interest" id="interest-other"           value="Other"           <?php /*e($value=='Other', ' checked')*/ ?> required/>Other</label>
+-->
+
+<label for="message" class="mt2">Your Review</label>
+<textarea name="message" id="message" required><?php $form->echoValue('message') ?></textarea>
 
 <label class="uniform__potty" for="website">Please leave this field blank</label>
 <input type="text" name="website" id="website" class="uniform__potty" />
