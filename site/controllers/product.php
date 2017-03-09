@@ -9,16 +9,10 @@ return function($site, $pages, $page) {
         'actions' => [
             [
                 '_action' => 'email',
-                'to'      => 'sales@arboria.com',
+                'to'      => 'elmnt.public@gmail.com',
                 'sender'  => 'info@dev.arboria.com',
                 'subject' => 'Arboria Product Review Submission'
             ]
-            /*
-            [
-               '_action' => 'log',
-               'file'    => '/log.txt'
-            ]
-            */
         ]
     ]);
 

@@ -10,10 +10,10 @@
 <input type="hidden" name="product_reviewed" value="<?php echo $page->title()->html() ?>" />
 
 <label for="reviewer">Your Name</label>
-<input <?php e($form->hasError('reviewer'), ' class="erroneous"')?> type="text" name="reviewer" id="reviewer" value="<?php $form->echoValue('reviewer') ?>" required/>
+<input <?php e($form->hasError('reviewer'), ' class="erroneous"')?> type="text" name="reviewer" id="reviewer" value="<?php $form->echoValue('reviewer') ?>"/>
 
 <label for="email">Email</label>
-<input <?php e($form->hasError('_from'), ' class="erroneous"')?> type="email" name="_from" id="email" value="<?php $form->echoValue('_from') ?>" required/>
+<input <?php e($form->hasError('_from'), ' class="erroneous"')?> type="email" name="_from" id="email" value="<?php $form->echoValue('_from') ?>"/>
 
 <label for="citystate">City and State</label>
 <input <?php e($form->hasError('citystate'), ' class="erroneous"')?> type="text" name="citystate" id="citystate" value="<?php $form->echoValue('citystate') ?>"/>
