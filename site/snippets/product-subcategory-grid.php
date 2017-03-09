@@ -40,7 +40,7 @@ foreach($page->images()->filterBy('filename', '*=', 'subcat_') as $img){
 <ul class="product-grid__list cf" id="prod_sort_list">
   <?php
   foreach($page->children()->visible() as $product):
-  $fp = $page->url(); // page url
+  $fp = $product->url(); // page url
   $img = $product->subcatimage(); // Get the custom field image
   ?><li class="product-grid__item" data-title="<?php echo $product->title()->html() ?>" data-date="<?php echo $product->date('Y-m-d') ?>" data-price="<?php echo $product->price()->html() ?>">
     <?php if($image = $product->images()->sortBy('sort', 'asc')->first()): ?>
