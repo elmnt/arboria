@@ -154,7 +154,7 @@
         <a id="write_review"></a>
         <h2><i class="fa fa-pencil" aria-hidden="true"></i>Write a Review of This Product</h2>
 
-        <p>If you'd rather speak to someone in person about your <strong>Arboria</strong> product, please don't hesitate to <a href="/contact">contact us</a> anytime!</p>
+        <p><strong>Please Note:</strong> Fields labeled in <strong><span class="required">RED</span></strong> are required, to send your message. If you'd rather speak to someone in person about your <strong>Arboria</strong> product, please don't hesitate to <a href="/contact">contact us</a> anytime!</p>
 
         <?php snippet('review-form') ?>
 
