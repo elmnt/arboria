@@ -9,7 +9,13 @@ return function($site, $pages, $page) {
         'actions' => [
             [
                 '_action' => 'email',
-                'to'      => 'sales@arboria.com',
+                'to'      => 'elmnt.gws@gmail.com',
+                'sender'  => 'info@dev.arboria.com',
+                'subject' => 'New message from the Arboria Contact Us form'
+            ],
+            [
+                '_action' => 'email',
+                'to'      => 'elmnt.public@gmail.com',
                 'sender'  => 'info@dev.arboria.com',
                 'subject' => 'New message from the Arboria Contact Us form'
             ]
