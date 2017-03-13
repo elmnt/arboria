@@ -15,7 +15,7 @@
             <?php if($page->tags() != ''): ?>
             <ul class="tags"><strong>Article Tags:</strong>&nbsp;&nbsp;
               <?php foreach(str::split($page->tags()) as $tag): ?>
-              <li><a href="<?php echo url('tag:' . urlencode($tag)) ?>">#<?php echo $tag; ?></a></li>
+              <li><a href="/blog/<?php echo url('tag:' . urlencode($tag)) ?>">#<?php echo $tag; ?></a></li>
               <?php endforeach ?>
             </ul>
             <?php endif ?>

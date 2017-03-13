@@ -67,6 +67,22 @@
 
 }
 
+// Tag Results listing
+
+.blog__tagresults {
+  @extend .list-reset;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 2rem;
+
+  &:last-of-type {
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+
+}
+
+
 // Fluid video ratio via Kirbytext
 
 figure.video {

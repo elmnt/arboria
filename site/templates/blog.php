@@ -16,23 +16,25 @@
                             ->flip()
                             ->paginate(99);
 
-          echo '<h1 class="result">Articles tagged with &ldquo;<mark>' , $tag , '</mark>&rdquo;</h1>';
+          echo '<h1 class="result mb3">Articles tagged with &ldquo;<em>' , $tag , '</em>&rdquo;</h1>';
     ?>
 
     <?php /* show tags */ ?>
-    <ul class="results">
+    <ul class="blog__tagresults">
       <?php foreach($articles as $article): ?>
       <li>
-        <h2><a href="<?php echo $article->url() ?>"><?php echo html($article->title()) ?></a></h2>
+        <h3><a href="<?php echo $article->url() ?>"><?php echo html($article->title()) ?></a></h3>
         <div class="meta">
           <time datetime="<?php echo $article->date('c') ?>"><?php echo $article->date('F dS, Y'); ?></time>
-          <?php if ($article->tags() != ''): ?> |
+          <!-- don't repeat the tags here
+          <?php /*if ($article->tags() != ''):*/ ?>
           <ul class="tags">
-            <?php foreach(str::split($article->tags()) as $tag): ?>
-            <li><a href="<?php echo url('tag:' . urlencode($tag)) ?>">#<?php echo $tag; ?></a></li>
-            <?php endforeach ?>
+            <?php /*foreach(str::split($article->tags()) as $tag):*/ ?>
+            <li><a href="/blog/<?php /*echo url('tag:' . urlencode($tag))*/ ?>">#<?php /*echo $tag;*/ ?></a></li>
+            <?php /*endforeach*/ ?>
           </ul>
-          <?php endif ?>
+          <?php /*endif*/ ?>
+          -->
         </div>
       </li>
       <?php endforeach ?>
@@ -59,7 +61,7 @@
           <ul class="tags">
             <li class="tags__label">Article Tags:</li>
             <?php foreach(str::split($article->tags()) as $tag): ?>
-            <li><a href="<?php echo url('tag:' . urlencode($tag)) ?>">#<?php echo $tag; ?></a></li>
+            <li><a href="/blog/<?php echo url('tag:' . urlencode($tag)) ?>">#<?php echo $tag; ?></a></li>
             <?php endforeach ?>
           </ul>
           <?php endif ?>
@@ -97,7 +99,7 @@
           <ul class="tags">
             <li class="tags__label">Article Tags:</li>
             <?php foreach(str::split($article->tags()) as $tag): ?>
-            <li><a href="<?php echo url('tag:' . urlencode($tag)) ?>">#<?php echo $tag; ?></a></li>
+            <li><a href="/blog/<?php echo url('tag:' . urlencode($tag)) ?>">#<?php echo $tag; ?></a></li>
             <?php endforeach ?>
           </ul>
           <?php endif ?>
@@ -118,7 +120,7 @@
           <ul class="tags">
             <li class="tags__label">Article Tags:</li>
             <?php foreach(str::split($article->tags()) as $tag): ?>
-            <li><a href="<?php echo url('tag:' . urlencode($tag)) ?>">#<?php echo $tag; ?></a></li>
+            <li><a href="/blog/<?php echo url('tag:' . urlencode($tag)) ?>">#<?php echo $tag; ?></a></li>
             <?php endforeach ?>
           </ul>
           <?php endif ?>
