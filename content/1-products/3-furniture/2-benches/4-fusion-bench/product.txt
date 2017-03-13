@@ -125,3 +125,7 @@ Relproductstables:
 ----
 
 Relproductssets: 
+
+----
+
+Subcatimage: subcat_fusion.jpg

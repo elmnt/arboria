@@ -117,3 +117,7 @@ Relproductssets:
 ----
 
 Firstimage: 1-sub_sets.jpg
+
+----
+
+Subcatimage: subcat_bistroset.jpg

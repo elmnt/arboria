@@ -115,3 +115,7 @@ Relproductssets:
 ----
 
 Msrp: 
+
+----
+
+Subcatimage: subcat_spontaneitychair.jpg

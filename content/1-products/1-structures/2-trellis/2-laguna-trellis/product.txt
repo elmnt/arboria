@@ -95,3 +95,7 @@ Relproductssets:
 ----
 
 Msrp: 49.98
+
+----
+
+Subcatimage: subcat_laguna.jpg

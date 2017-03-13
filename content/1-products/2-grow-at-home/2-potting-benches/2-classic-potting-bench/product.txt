@@ -99,3 +99,7 @@ Relproductstables:
 ----
 
 Relproductssets: 
+
+----
+
+Subcatimage: subcat_pottingbench.jpg

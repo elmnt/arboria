@@ -110,7 +110,7 @@ Relproductstrellis:
 
 ----
 
-Relproductsscreens: 
+Relproductsscreens: andover-arch-landscape-screen
 
 ----
 
@@ -139,3 +139,7 @@ Relproductstables:
 ----
 
 Relproductssets: 
+
+----
+
+Subcatimage: subcat_andoverwings.jpg

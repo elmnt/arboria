@@ -118,3 +118,7 @@ Relproductstables:
 ----
 
 Relproductssets: 
+
+----
+
+Subcatimage: subcat_claremont.jpg
