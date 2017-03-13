@@ -2,7 +2,7 @@
 
   <main role="main">
 
-    <div class="container container--blog">
+    <div class="container container--blog container--blogsingle">
     <div class="wrap">
     <div class="grid mt3 mb3">
     <div class="single-col">

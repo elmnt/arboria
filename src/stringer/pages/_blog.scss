@@ -58,20 +58,32 @@
 
 }
 
+.container--blogsingle {
+
+   article {
+      padding-bottom: 0;
+      border-bottom: none;
+   }
+
+}
+
 // Fluid video ratio via Kirbytext
+
 figure.video {
    margin-bottom: 20px;
 }
+
 .video {
   position: relative;
   padding-bottom: 56.25%;
   height: auto;
   overflow: hidden;
 }
-  .video iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
+
+.video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
