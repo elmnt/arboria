@@ -71,8 +71,7 @@
 
       <?php if($image = $page->image()): ?>
       <figure>
-      <img src="<?php echo $image->url() ?>" alt="<?php echo $page->imagealttag()->html() ?>">
-
+      <img src="<?php echo $image->url() ?>" alt="<?php echo $page->imagecaption()->html() ?>">
       <figcaption><?php echo $page->imagecaption()->kirbytext() ?></figcaption>
       </figure>
       <?php endif ?>

@@ -29,7 +29,3 @@ fields:
     label: Image Caption
     type:  text
     icon: info-circle
-  imageAltTag:
-    label: Image Alt Tag
-    type:  text
-    icon: info-circle
