@@ -13,36 +13,37 @@ h6 {
   text-rendering: optimizelegibility;
   margin: $heading-margin;
   line-height: $heading-line-height;
+  color: $heading-color;
 }
 
 h1, .h1 {
   font-size: $h1-size;
-  color: $heading-color;
+  //color: $heading-color;
 }
 
 h2, .h2 {
   font-size: $h2-size;
-  color: $heading-color;
+  //color: $heading-color;
 }
 
 h3, .h3 {
   font-size: $h3-size;
-  //color: $heading-color-secondary;
+  //color: $heading-color;
 }
 
 h4, .h4 {
   font-size: $h4-size;
-  //color: $heading-color-secondary;
+  //color: $heading-color;
 }
 
 h5, .h5 {
   font-size: $h5-size;
-  //color: $heading-color-secondary;
+  //color: $heading-color;
 }
 
 h6, .h6 {
   font-size: $h6-size;
-  //color: $heading-color-secondary;
+  //color: $heading-color;
 }
 
 h1 a, .h1 a,
