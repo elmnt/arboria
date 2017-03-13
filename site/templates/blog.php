@@ -16,7 +16,7 @@
                             ->flip()
                             ->paginate(99);
 
-          echo '<h1 class="result">Articles tagged with “<mark>' , $tag , '</mark>”</h1>';
+          echo '<h1 class="result">Articles tagged with &ldquo;<mark>' , $tag , '</mark>&rdquo;</h1>';
     ?>
 
     <?php /* show tags */ ?>
