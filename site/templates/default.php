@@ -57,7 +57,7 @@
 
     <div class="col-6">
 
-      <h1 class="page-title"><?php echo html($page->title()) ?></h1>
+      <h1 class="page-title"><?php echo $page->title()->html() ?></h1>
       <?php echo $page->text()->kirbytext() ?>
 
     </div><!-- /.col-6 -->
@@ -71,7 +71,8 @@
 
       <?php if($image = $page->image()): ?>
       <figure>
-      <img src="<?php echo $image->url() ?>" alt="">
+      <img src="<?php echo $image->url() ?>" alt="<?php echo $page->description()->html() ?>">
+
       <figcaption><?php echo $page->imagecaption()->kirbytext() ?></figcaption>
       </figure>
       <?php endif ?>

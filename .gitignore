@@ -32,3 +32,10 @@ Thumbs.db
 # hidden/inactive content
 # A working file to generate Google map lat/long coordinates
 /maplinks.txt
+
+# IMPORTANT
+# Backup the /content directory any time it's updated via the panel.
+# Commit & Push the changes from the local repo.
+# Now the local repo and the Beanstalk repo are current.
+# The Beanstalk deployment always excludes (and MUST always exclude) the /content directory.
+# This will ensure that no panel/user settings get broken.
