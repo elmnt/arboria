@@ -4,4 +4,4 @@ Title: Search
 
 Description:
 
-Search Arboria Products
+Search page for Baseblog.

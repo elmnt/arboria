@@ -18,11 +18,12 @@
 
       <div class="product__imgs">
         <figure>
-        <?php // Get the first image at multiple sizes
-        $fimg    = $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->findBy('sort', '1')->url();
-        $fimg400 = $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->findBy('sort', '1')->resize(400)->url();
-        $fimg600 = $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->findBy('sort', '1')->resize(600)->url();
-        ?>
+
+        <?php // Get the first image at multiple sizes ?>
+        <img src="<?php echo $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->findBy('sort', '1')->url(); ?>">
+        <img src="<?php echo $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->findBy('sort', '1')->resize(400)->url(); ?>">
+        <img src="<?php echo $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->findBy('sort', '1')->resize(600)->url(); ?>">
+
         <a class="thumbnail gallery" href="<?php echo $fimg ?>">
         <picture class="fit">
           <source srcset="<?php echo $fimg ?>" media="(min-width: 800px)">
@@ -36,7 +37,6 @@
       </div>
 
       <p class="small"><i class="fa fa-search-plus" aria-hidden="true"></i>Select a thumbnail, to enlarge &amp; view additional images:</p>
-
 
       <?php
       /*

@@ -106,7 +106,7 @@ Relproductsbenches:
 
 ----
 
-Relproductstables: 
+Relproductstables: galleria-square-table
 
 ----
 

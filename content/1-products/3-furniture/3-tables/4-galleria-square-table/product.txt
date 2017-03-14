@@ -91,7 +91,7 @@ Relproductscaddies:
 
 ----
 
-Relproductschairs: 
+Relproductschairs: galleria-folding-chair
 
 ----
 
