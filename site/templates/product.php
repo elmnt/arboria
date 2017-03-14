@@ -16,16 +16,11 @@
 
     <div class="col-6">
 
-    <!--
-    <?php /*if($image = $page->image()):*/ ?>
-    <img src="<?php /*echo $image->url()*/ ?>" alt="">
-    <?php /*endif*/ ?>
-    -->
-    <?php /*echo $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->findBy('sort', '1')->url();*/ ?>
-
       <div class="product__imgs">
         <figure>
-        <?php if($image = $page->image()): ?>
+        <?php
+        // Get the first image
+        if($image = $page->image()): ?>
         <a class="thumbnail gallery" href="<?php echo $image->url() ?>">
         <picture class="fit">
           <source srcset="<?php echo $image->url() ?>" media="(min-width: 800px)">
@@ -43,10 +38,14 @@
 
       <div class="product__thumbs">
         <ul>
-          <?php /* Get all images (EXCEPT the first one) for this product ->offset(1) */ ?>
-          <?php foreach($page->images()->filterBy('extension', 'jpg')->sortBy('sort', 'asc')->offset(1)->not('filename', '*=', 'subcat_') as $img): ?>
-          <li><a class="thumbnail gallery" href="<?php echo $img->url() ?>"><img src="<?php echo $img->resize(100)->url() ?>" alt="<?php echo $page->title()->html() ?>"></a></li>
-          <?php endforeach; ?>
+          <?php // Exclude the subcat_ image, grab only jpgs, and exclude the first one
+          $images = $page->images()->filter(function($image) {
+            return !str::contains($image->filename(), 'subcat_');
+          });
+          foreach($images->offset(1)->filterBy('extension', 'jpg') as $image){
+            echo '<li><a class="thumbnail gallery" href="'.$image->url().'"><img src="'.$image->resize(100)->url().'" alt="'.$page->title()->html().'"></a></li>';
+          }
+          ?>
         </ul>
       </div>
 
