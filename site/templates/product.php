@@ -14,28 +14,21 @@
 
     <h1 class="pb1"><?php echo $page->title()->html() ?></h1>
 
-    <!--
-    EXCLUDE subcat_ * .jpg
-    images()->not('filename', '*=', 'subcat_')
-    -->
-
-<div class="grid" style="padding:20px;border:1px solid pink;margin-bottom:2rem;">
-<?php if($image = $page->image()): ?>
-<img src="<?php echo $image->url() ?>" alt="">
-<?php endif ?>
-</div>
-
     <div class="col-6">
 
       <div class="product__imgs">
         <figure>
-        <?php /* Get the first image */ ?>
-        <a class="thumbnail gallery" href="<?php echo $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->first()->url() ?>">
+        <?php // Get the first image at multiple sizes
+        $fimg    = $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->findBy('sort', '1')->url();
+        $fimg400 = $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->findBy('sort', '1')->resize(400)->url();
+        $fimg600 = $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->findBy('sort', '1')->resize(600)->url();
+        ?>
+        <a class="thumbnail gallery" href="<?php echo $fimg ?>">
         <picture class="fit">
-          <source srcset="<?php echo $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->first()->url() ?>" media="(min-width: 800px)">
-          <source srcset="<?php echo $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->first()->resize(600)->url() ?>" media="(min-width: 400px)">
-          <source srcset="<?php echo $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->first()->resize(400)->url() ?>" media="(min-width: 100px)">
-          <img srcset="<?php echo $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->first()->resize(400)->url() ?>" alt="<?php echo $page->title()->html() ?>">
+          <source srcset="<?php echo $fimg ?>" media="(min-width: 800px)">
+          <source srcset="<?php echo $fimg600 ?>" media="(min-width: 400px)">
+          <source srcset="<?php echo $fimg400 ?>" media="(min-width: 100px)">
+          <img srcset="<?php echo $fimg400 ?>" alt="<?php echo $page->title()->html() ?>">
         </picture>
         </a>
         <figcaption class="mb0"><p><i class="fa fa-search-plus" aria-hidden="true"></i>Click the image to enlarge</p></figcaption>
