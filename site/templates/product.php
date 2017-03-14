@@ -19,6 +19,12 @@
     images()->not('filename', '*=', 'subcat_')
     -->
 
+<div class="grid" style="padding:20px;border:1px solid pink;margin-bottom:2rem;">
+<?php if($image = $page->image()): ?>
+<img src="<?php echo $image->url() ?>" alt="">
+<?php endif ?>
+</div>
+
     <div class="col-6">
 
       <div class="product__imgs">
@@ -41,7 +47,7 @@
       <div class="product__thumbs">
         <ul>
           <?php /* Get all images (EXCEPT the first one) for this product ->offset(1) */ ?>
-          <?php foreach($page->images()->filterBy('extension', 'jpg')->sortBy('sort', 'asc')->offset(1) as $img): ?>
+          <?php foreach($page->images()->filterBy('extension', 'jpg')->sortBy('sort', 'asc')->offset(1)->not('filename', '*=', 'subcat_') as $img): ?>
           <li><a class="thumbnail gallery" href="<?php echo $img->url() ?>"><img src="<?php echo $img->resize(100)->url() ?>" alt="<?php echo $page->title()->html() ?>"></a></li>
           <?php endforeach; ?>
         </ul>
