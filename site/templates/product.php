@@ -37,6 +37,15 @@
 
       <p class="small"><i class="fa fa-search-plus" aria-hidden="true"></i>Select a thumbnail, to enlarge &amp; view additional images:</p>
 
+
+      <?php
+      /*
+      Some images repeating, in the lightbox,
+      and some subcat_ images showing up in the lightbox
+      */
+      ?>
+
+
       <div class="product__thumbs">
         <ul>
           <?php /* Get all images (EXCEPT the first one) for this product ->offset(1) */ ?>
