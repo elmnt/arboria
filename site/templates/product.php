@@ -14,12 +14,17 @@
 
     <h1 class="pb1"><?php echo $page->title()->html() ?></h1>
 
+    <!--
+    EXCLUDE subcat_ * .jpg
+    images()->not('filename', '*=', 'subcat_')
+    -->
+
     <div class="col-6">
 
       <div class="product__imgs">
         <figure>
         <?php /* Get the first image */ ?>
-        <a class="thumbnail gallery" href="<?php echo $page->images()->filterBy('extension', 'jpg')->first()->url() ?>">
+        <a class="thumbnail gallery" href="<?php echo $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->first()->url() ?>">
         <picture class="fit">
           <source srcset="<?php echo $page->images()->filterBy('extension', 'jpg')->first()->url() ?>" media="(min-width: 800px)">
           <source srcset="<?php echo $page->images()->filterBy('extension', 'jpg')->first()->resize(600)->url() ?>" media="(min-width: 400px)">

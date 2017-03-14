@@ -12,7 +12,13 @@
 
   <div class="container">
   <div class="wrap">
-  <div class="grid">
+  <div class="grid mt3">
+  <div class="single-col">
+
+    <form>
+      <input type="search" name="q" value="<?php echo esc($query) ?>">
+      <input type="submit" value="Search">
+    </form>
 
     <?php $countItems = $results->pagination()->countItems();
 
@@ -30,7 +36,7 @@
               echo $countItems , ' results';
             }
 
-            echo  ' for &#8220;<mark>' , $query , '</mark>&#8221;</h1>';
+            echo  ' for &#8220;<em>' , $query , '</em>&#8221;</h1>';
     } ?>
 
     <?php if($results->count() != 0): ?>
@@ -65,6 +71,7 @@
     </nav>
     <?php endif ?>
 
+  </div>
   </div>
   </div>
   </div>
