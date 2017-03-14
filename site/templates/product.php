@@ -16,35 +16,30 @@
 
     <div class="col-6">
 
+    <!--
+    <?php /*if($image = $page->image()):*/ ?>
+    <img src="<?php /*echo $image->url()*/ ?>" alt="">
+    <?php /*endif*/ ?>
+    -->
+    <?php /*echo $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->findBy('sort', '1')->url();*/ ?>
+
       <div class="product__imgs">
         <figure>
-
-        <?php // Get the first image at multiple sizes ?>
-        <img src="<?php echo $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->findBy('sort', '1')->url(); ?>">
-        <img src="<?php echo $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->findBy('sort', '1')->resize(400)->url(); ?>">
-        <img src="<?php echo $page->images()->filterBy('extension', 'jpg')->not('filename', '*=', 'subcat_')->findBy('sort', '1')->resize(600)->url(); ?>">
-
-        <a class="thumbnail gallery" href="<?php echo $fimg ?>">
+        <?php if($image = $page->image()): ?>
+        <a class="thumbnail gallery" href="<?php echo $image->url() ?>">
         <picture class="fit">
-          <source srcset="<?php echo $fimg ?>" media="(min-width: 800px)">
-          <source srcset="<?php echo $fimg600 ?>" media="(min-width: 400px)">
-          <source srcset="<?php echo $fimg400 ?>" media="(min-width: 100px)">
-          <img srcset="<?php echo $fimg400 ?>" alt="<?php echo $page->title()->html() ?>">
+          <source srcset="<?php echo $image->url() ?>" media="(min-width: 800px)">
+          <source srcset="<?php echo $image->url() ?>" media="(min-width: 400px)">
+          <source srcset="<?php echo $image->url() ?>" media="(min-width: 100px)">
+          <img srcset="<?php echo $image->url() ?>" alt="<?php echo $page->title()->html() ?>">
         </picture>
         </a>
         <figcaption class="mb0"><p><i class="fa fa-search-plus" aria-hidden="true"></i>Click the image to enlarge</p></figcaption>
+        <?php endif ?>
         </figure>
       </div>
 
       <p class="small"><i class="fa fa-search-plus" aria-hidden="true"></i>Select a thumbnail, to enlarge &amp; view additional images:</p>
-
-      <?php
-      /*
-      Some images repeating, in the lightbox,
-      and some subcat_ images showing up in the lightbox
-      */
-      ?>
-
 
       <div class="product__thumbs">
         <ul>
