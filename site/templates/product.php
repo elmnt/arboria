@@ -43,7 +43,7 @@
             return !str::contains($image->filename(), 'subcat_');
           });
           foreach($images->offset(1)->filterBy('extension', 'jpg') as $image){
-            echo '<li><a class="thumbnail gallery" href="'.$image->url().'"><img src="'.$image->resize(100)->url().'" alt="'.$page->title()->html().'"></a></li>';
+            echo '<li><a class="thumbnail gallery" href="'.$image->url().'"><img src="'.$image->resize(120)->url().'" alt="'.$page->title()->html().'"></a></li>';
           }
           ?>
         </ul>

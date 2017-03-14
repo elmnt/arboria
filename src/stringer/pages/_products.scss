@@ -124,14 +124,19 @@
 .product__thumbs {
    display: inline-block;
    margin-bottom: 1rem;
-   border: 1px solid $site-color-c;
-   padding: .5rem .5rem .135rem .5rem;
+   //border: 1px solid $site-color-c;
+   //padding: .5rem .5rem .135rem .5rem;
    ul {
      @extend .list-reset;
       li {
-         max-height: 100px;
+         //max-height: 100px;
          overflow: hidden;
          display: inline-block;
+         border: 1px solid $site-color-c;
+         padding: .5rem;
+         margin-right: .5rem;
+         margin-bottom: .5rem;
+         vertical-align: top;
       }
    }
 }
