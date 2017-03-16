@@ -24,8 +24,7 @@
       echo $article->text()->kirbytext();
     } else {
       echo $article->textexcerpt()->kirbytext();
-      echo '<br>';
-      echo '<a href="'.$article->url().'">Read More &rarr;</a>';
+      echo '<p class="mt1"><a href="'.$article->url().'">Read More &rarr;</a></p>';
     }
     ?>
     <?php endforeach ?>
