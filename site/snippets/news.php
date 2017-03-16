@@ -18,7 +18,7 @@
     */
     ?>
     <?php
-    $string = $article->text()->html();
+    $string = $article->text()->kirbytext();
     if( str::contains($string, 'vimeo') || str::contains($string, 'youtube')) {
       echo $article->text()->kirbytext();
     } else {
