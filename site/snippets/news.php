@@ -18,7 +18,6 @@
     If it's not, get the excerpt of the text post.
     */
     ?>
-    <h4><?php echo $article->title()->html() ?></h4>
     <?php
     $string = $article->text()->kirbytext();
     if( str::contains($string, 'vimeo') || str::contains($string, 'youtube')) {
@@ -31,7 +30,7 @@
     ?>
     <?php endforeach ?>
 
-    <p class="mt1"><a href="/blog">Read all articles</a></p>
+    <p class="mt1"><a href="/blog">Read all articles &rarr;</a></p>
   </div><!-- /.col-6 -->
 
   <div class="col-1"><p>&nbsp;</p></div>
