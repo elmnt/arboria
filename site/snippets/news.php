@@ -23,7 +23,7 @@
     if( str::contains($string, 'vimeo') || str::contains($string, 'youtube')) {
       echo $article->text()->kirbytext();
     } else {
-      echo $article->textexcerpt()->kirbytext()->excerpt(200);
+      echo $article->textexcerpt()->kirbytext();
       echo '<br>';
       echo '<a href="'.$article->url().'">Read More &rarr;</a>';
     }
