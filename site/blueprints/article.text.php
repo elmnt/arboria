@@ -32,3 +32,7 @@ fields:
     label: Text
     type:  textarea
     icon:  file-text-o
+  textExcerpt:
+    label: Home Page Excerpt
+    type:  textarea
+    icon:  file-text-o

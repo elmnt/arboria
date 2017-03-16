@@ -10,6 +10,7 @@
     <?php if($image = $article->images()->sortBy('sort', 'asc')->first()): ?>
     <a href="<?php echo $article->url() ?>"><img class="homenews__image" src="<?php echo $image->url() ?>" alt="<?php echo $article->title()->html() ?>"></a>
     <?php endif ?>
+
     <?php
     /*
     Check to see if it's a video post (does the text() string contain 'vimeo' or 'youtube')
@@ -22,10 +23,11 @@
     if( str::contains($string, 'vimeo') || str::contains($string, 'youtube')) {
       echo $article->text()->kirbytext();
     } else {
-      echo $article->text()->excerpt(200).'&nbsp;&nbsp;<a href="'.$article->url().'">Read More &rarr;</a>';
+      echo $article->textexcerpt()->kirbytext()->excerpt(200).'&nbsp;&nbsp;<a href="'.$article->url().'">Read More &rarr;</a>';
     }
     ?>
     <?php endforeach ?>
+
     <p class="mt1"><a href="/blog">Read all articles</a></p>
   </div><!-- /.col-6 -->
 
