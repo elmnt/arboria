@@ -117,6 +117,7 @@ Activate the cache
 ---------------------------------------
 */
 
+/*
 c::set('cache', true);
 
 // When the cache is activated, we need to ignore the Contact page,
@@ -124,6 +125,8 @@ c::set('cache', true);
 c::set('cache.ignore', array(
   'contact'
 ));
+*/
+
 
 /*
 ---------------------------------------
