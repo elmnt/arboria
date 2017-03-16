@@ -18,12 +18,15 @@
     If it's not, get the excerpt of the text post.
     */
     ?>
+    <h4><?php echo $article->title()->html() ?></h4>
     <?php
     $string = $article->text()->kirbytext();
     if( str::contains($string, 'vimeo') || str::contains($string, 'youtube')) {
       echo $article->text()->kirbytext();
     } else {
-      echo $article->textexcerpt()->kirbytext()->excerpt(200).'&nbsp;&nbsp;<a href="'.$article->url().'">Read More &rarr;</a>';
+      echo $article->textexcerpt()->kirbytext()->excerpt(200);
+      echo '<br>';
+      echo '<a href="'.$article->url().'">Read More &rarr;</a>';
     }
     ?>
     <?php endforeach ?>
