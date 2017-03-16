@@ -11,9 +11,9 @@
       </ul>
     </nav>
     <ul class="nav--social elm__list">
-      <li class="elm__item"><a class="elm__link" href="#!"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
-      <li class="elm__item"><a class="elm__link" href="#!"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-      <li class="elm__item"><a class="elm__link" href="#!"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+      <li class="elm__item"><a class="elm__link" target="_blank" href="https://www.facebook.com/ArboriaOutdoor"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+      <li class="elm__item"><a class="elm__link" target="_blank" href="https://twitter.com/ArboriaArbors"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+      <li class="elm__item"><a class="elm__link" target="_blank" href="https://www.youtube.com/user/WoodwayArboria"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
     </ul>
   </div>
 

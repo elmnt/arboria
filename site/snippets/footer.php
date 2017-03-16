@@ -13,7 +13,7 @@
        <li><a href="/privacy-policy">Privacy Policy</a><span>/</span></li>
        <li><a href="/terms-and-conditions">Terms &amp; Conditions</a><span>/</span></li>
        <li><a href="/customer-service">Customer Service</a><span>/</span></li>
-       <li><a href="https://drive.google.com/open?id=0BxYZMegAdciFREc2bWwtUGtJSkE"><?php echo $site->googledrive()->html() ?></a></li>
+       <li><a href="https://drive.google.com/open?id=0BxYZMegAdciFREc2bWwtUGtJSkE" target="_blank"><?php echo $site->googledrive()->html() ?></a></li>
     </ul>
   </nav>
 

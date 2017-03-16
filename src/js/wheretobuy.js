@@ -95,10 +95,10 @@ function initMap() {
             //statusHTML += '<li><a href="' + dealers[states][state][i].address.tel + '">' + dealers[states][state][i].address.tel + '</a></li>';
             //statusHTML += '<li><a href="' + dealers[states][state][i].url + '">Website</a>&nbsp;&nbsp;<span>|</span>&nbsp;&nbsp;<a href="' + dealers[states][state][i].map + '">Google Map Link</a></li>';
             if ( dealers[states][state][i].url != ''){
-              statusHTML += '<li><a href="' + dealers[states][state][i].url + '">Website</a></li>';
+              statusHTML += '<li><a href="' + dealers[states][state][i].url + '" target="_blank">Website</a></li>';
             }
             if ( dealers[states][state][i].map != ''){
-              statusHTML += '<li><a href="' + dealers[states][state][i].map + '">Google Map Link</a></li>';
+              statusHTML += '<li><a href="' + dealers[states][state][i].map + '" target="_blank">Google Map Link</a></li>';
             }
             statusHTML += '</ul>';
             statusHTML += '</li>';
