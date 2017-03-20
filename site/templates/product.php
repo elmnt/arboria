@@ -71,7 +71,7 @@
         NOTE: The full URL path issue should be fixed, to remove the $trim variable.
         */
         foreach ( $page->files()->filterBy('extension', 'pdf') as $haspdf ){
-          $trim = str_replace('/var/www/dev.arboria.com/', '/', $haspdf);
+          $trim = str_replace('/usr/websites/arboria/', '/', $haspdf);
           echo '<h6 class="emtest"><a href="'.$trim.'" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Download Product Instructions</a></h6>';
         }
         ?>
