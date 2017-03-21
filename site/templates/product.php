@@ -104,7 +104,7 @@
         <table cellspacing="0" border="0" width="100%" class="product__buytable">
           <?php foreach($page->buyonline()->toStructure() as $buylink): ?>
           <tr>
-            <td align="left" valign="middle" width="60%"><p class="product__buylink"><a target="_blank" href="<?php echo $buylink->url() ?>"><i class="fa fa-external-link" aria-hidden="true"></i><?php echo $buylink->linktext()->html() ?></a></p></td>
+            <td align="left" valign="middle" width="60%"><p class="product__buylink"><a onClick="ga( 'send', 'event', '<?php echo $page->title()->html() ?>', '<?php echo $buylink->linktext()->html() ?>', '<?php echo $buylink->url() ?>' );" target="_blank" href="<?php echo $buylink->url() ?>"><i class="fa fa-external-link" aria-hidden="true"></i><?php echo $buylink->linktext()->html() ?></a></p></td>
             <td align="left" valign="middle" width="40%"><a target="_blank" href="<?php echo $buylink->logolink() ?>"><img src="<?php echo $page->url().'/'.$buylink->logo() ?>" alt="<?php echo $buylink->linktext()->html() ?>" class="product__buylogo"></a></td>
           </tr>
           <?php endforeach ?>
