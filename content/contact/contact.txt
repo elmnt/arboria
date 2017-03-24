@@ -12,7 +12,9 @@ Telephone: (tel: 5032865372 text: 503-286-5372)
 Toll Free Customer Service: (tel: 8004598718 text: 800-459-8718)
 Fax: (tel: 5032864092 text: 503-286-4092)
 
-(link: https://www.facebook.com/ArboriaOutdoor/ text: Facebook.com/ArboriaOutdoor target: blank)
+(link: https://www.facebook.com/ArboriaOutdoor/ text: Facebook.com/ArboriaOutdoor target: blank)  
+
+If you're looking for Replacement Parts, please use this contact form to send us a message, and be sure to select **Replacement Parts Request,** below, under "MESSAGE TOPIC," and let us know what you're looking for. Thank you!
 
 ----
 
