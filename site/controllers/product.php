@@ -10,7 +10,7 @@ return function($site, $pages, $page) {
             [
                 '_action' => 'email',
                 'to'      => 'sales@arboria.com',
-                'sender'  => 'info@dev.arboria.com',
+                'sender'  => 'info@arboria.com',
                 'subject' => 'Arboria Product Review Submission'
             ]
         ]

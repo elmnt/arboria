@@ -3,8 +3,8 @@
 <?php /* SHOW RELATED PRODUCTS */
 
 /*
-Create an array of all possible related product fields 
-for any given product. In other words, IF a product has 
+Create an array of all possible related product fields
+for any given product. In other words, IF a product has
 related products, they will live in one of these fields:
 */
 $allrel = array(
@@ -24,7 +24,7 @@ $allrel = array(
 $allrel_length = count($allrel);
 
 /*
-Loop through the array, and, for EACH field, 
+Loop through the array, and, for EACH field,
 if there are related products, display them.
 */
 for($i = 0; $i < $allrel_length; $i++) {
@@ -43,10 +43,10 @@ for($i = 0; $i < $allrel_length; $i++) {
     foreach( $relprods as $relprod ){
       echo '<li>';
       /*
-      Create the proper URL strings for each related product 
-      by removing the 'relproducts' portion of the string, 
-      leaving us with just the product sub-category identifier. 
-      Now we now which URL string to use, since we know what sub-category 
+      Create the proper URL strings for each related product
+      by removing the 'relproducts' portion of the string,
+      leaving us with just the product sub-category identifier.
+      Now we now which URL string to use, since we know what sub-category
       the related product is in.
       */
       $skiz_suffix = substr($skiz, 11);
