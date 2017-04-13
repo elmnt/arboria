@@ -112,6 +112,17 @@ Buylocal:
 
 Productreviews: 
 
+- 
+  reviewstars: "5"
+  reviewtitle: Love it!
+  reviewname: Cassie
+  reviewfrom: Macon, GA
+  reviewtext: >
+    My mom knew we were looking for an arbor
+    and we just put this together today. It
+    was easy to put together. It is
+    beautiful but also sturdy.
+
 ----
 
 Relproductsarbors: 
